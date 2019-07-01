@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://www.rssboard.org/media-rss" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+	<channel>
+		<title>Hello Internet Archive</title>
+		<link>http://www.hellointernet.fm/</link>
+		<lastBuildDate>Fri, 31 Jan 2014 18:21:03 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<language>en-US</language>
+		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
+		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
+		<itunes:subtitle>CGP Grey and Brady Haran in Conversation.</itunes:subtitle>
+		<itunes:summary>CGP Grey and Brady Haran talk about YouTube, life, work, whatever.</itunes:summary>
+		<description>CGP Grey and Brady Haran talk about YouTube, life, work, whatever.</description>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>CGP Grey</itunes:name>
+			<itunes:email>HelloInternet@CGPGrey.com</itunes:email>
+		</itunes:owner>
+		<itunes:category text="Education" />
+		<itunes:type>episodic</itunes:type>
+		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #1: Being Wrong on The Internet</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Fri, 31 Jan 2014 18:21:03 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/1</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:52ebe9a1e4b0fcbf56ea38b8</guid>
+			<description><![CDATA[<p>Grey &amp; Brady talk about what it's like to be wrong in front of thousands of people.</p>
+
+<h2 id="subscribe">Subscribe:</h2>
+
+<p><a href="http://feeds.podtrac.com/rZy85ymZYZc$">via RSS</a>, <a href="http://www.hellointernet.fm/itunes">via iTunes</a></p>
+<h2 id="relevantlinks">Relevant Links:</h2>
+
+<p><a href="http://www.cgpgrey.com/blog/the-united-kingdom-venn-diagram.html">List of the mistakes in Grey's UK video</a></p>
+
+<p><a href="http://www.reddit.com/r/CGPGrey/comments/1x3guw/hello_internet_a_10_episode_podcast_experiment/">Discuss this episode on reddit</a></p>
+
+<p><a href="http://www.hellointernet.fm/topic-suggestions">Suggest future topics for H.I.</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:38:45</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/52ebe9a1e4b0fcbf56ea38b8/1462385388877/1500w/Hello+Internet.003.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI201.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI201.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
+	</channel>
+</rss>
