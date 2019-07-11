@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Mon, 25 May 2015 16:01:03 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Tue, 09 Jun 2015 14:20:20 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,68 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #39: Getting Things Done</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Tue, 09 Jun 2015 14:20:20 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/39</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5576f56de4b036c2e8ec1445</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: Hello Internet babies, humblebragging time warp, how likely is your job to be automated, a new corner, John Nash, losing weight, and collecting the <em>Getting Things Done</em> homework.</p>
+
+  <h2 id="broughttoyouby">Brought to You By:</h2>
+
+  <p><a href="https://www.harrys.com/?hellointernetpodcast">Harry's: Quality Men's Shaving Products. Promocode HI for $5 off your first purchase</a></p>
+
+  <p><a href="https://www.fractureme.com/?hellointernetpodcast">Fracture: Photos printed in vivid color directly on glass. Use code HELLOINTERNET for 15% off your first order</a>.</p>
+
+  <p><a href="http://www.backblaze.com/hellointernet">Backblaze: Online backup for $5/month</a></p>
+
+  <p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a>.</p>
+
+  <h2 id="shownotes">Show Notes:</h2>
+
+  <p><strong><a href="https://www.reddit.com/r/CGPGrey/comments/395ydx/hi_39_getting_things_done/">Discuss this episode</a></strong></p>
+
+  <p><a href="https://www.facebook.com/AudreyAdorable">Audrey's Facebook page</a></p>
+
+  <p><a href="http://static1.squarespace.com/static/548b5b70e4b0b57ba182907d/t/556f761fe4b0b5473e12d714/1433368106494/?format=1500w">Little Bear's broken arm</a></p>
+
+  <p><a href="https://www.youtube.com/watch?v=j-1WVaRY2eI">Slow Motion Little Bear</a></p>
+
+  <p>Play 'Where's Audrey': <a href="https://www.youtube.com/watch?v=l7E-pBWuSIA">Video 1</a>, <a href="https://www.youtube.com/watch?v=Jf6cdU4a930">Video 2</a></p>
+
+  <p><a href="https://www.youtube.com/watch?v=NetnnmOCaV4">SciShow: Is Urine Really Sterile?</a></p>
+
+  <p><a href="https://www.reddit.com/r/CGPGrey/comments/39616c/share_your_hi_flag_designs_here/">Hello Internet Flag submissions</a></p>
+
+  <p><a href="http://c-cedilha.tumblr.com/archive">Dovsky</a></p>
+
+  <p><a href="http://www.bradyharanblog.com/blog/2015/6/10/hello-internet-baby">A special email</a></p>
+
+  <p><a href="https://www.youtube.com/watch?v=m520SIYSbSQ&amp;feature=youtu.be&amp;t=3518">The first discussion of Humblebragging on Hello Internet</a></p>
+
+  <p><a href="http://www.npr.org/sections/money/2015/05/21/408234543/will-your-job-be-done-by-a-machine">Will your job be done by a machine?</a></p>
+
+  <p><a href="http://www.relay.fm/cortex/1">Grey's new podcast: <em>Cortex</em> on Relay.fm</a></p>
+
+  <p><a href="http://en.wikipedia.org/wiki/John_Forbes_Nash,_Jr.">John Nash</a></p>
+
+  <p><a href="https://www.youtube.com/watch?v=5qu3WETuf6c">Numberphile: John Nash</a></p>
+
+  <p><a href="http://www.amazon.com/gp/product/0143126563/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0143126563&amp;linkCode=as2&amp;tag=hellinte-20&amp;linkId=JEVRQ6BGXUJ5IDAO"><em>Getting Things Done</em> by David Allen</a></p>
+
+  <p><a href="http://en.wikipedia.org/wiki/The_Race_for_Space_%28album%29">Space album</a></p>
+
+  <p>Grey's book notes: <a href="http://www.cgpgrey.com/blog/book-notes-creativity-inc-by-ed-catmull">Creativity Inc</a>, <a href="http://www.cgpgrey.com/blog/bird-by-bird">Bird by Bird</a></p>
+
+  <p><a href="https://www.youtube.com/watch?v=SuhGwaZiNIk">Grey: Time Management for Teachers</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>02:05:35</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5576f56de4b036c2e8ec1445/1462384156286/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/39.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/39.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #38: The F-Word</title>
 			<dc:creator>Hello Internet</dc:creator>
