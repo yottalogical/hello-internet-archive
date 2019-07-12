@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Tue, 07 Jul 2015 20:34:32 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Fri, 17 Jul 2015 22:02:14 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,68 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #43: The Naughty Episode</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Fri, 17 Jul 2015 22:02:14 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/43</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:55a97503e4b07afa0a98322b</guid>
+			<description><![CDATA[<p>Corporate Compensation Corner starts the podcast with a bang before going on to: a major victory for Freebooting, jobs-while-listening-to-Hello-Internet corner, cargo ships and the environment revisited, reddit's CEO resignation, free will follow-up, the limits of what you might want to know about Scarlett Johansson, being wrong about predicting the future, the death and the inevitable decline of our careers, before finishing up with <strong>a serious amount of cursing</strong>. </p>
+
+<h2 id="broughttoyouby">Brought to You By:</h2>
+
+<p><a href="http://igloosoftware.com/hello">Igloo: An intranet you'll actually like</a></p>
+
+<p><a href="http://audible.com/hellointernet">Audible.com: Get a free audiobook by signing up at www.audible.com/hellointernet</a></p>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLO for 10% off your website</a></p>
+
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a>.</p>
+
+<h2 id="shownotes">Show Notes:</h2>
+
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/comments/3do9s8/hi_43_the_naughty_episode/">Discuss this episode</a></strong></p>
+
+<p><a href="http://www.qantas.com.au/">Qantas</a></p>
+
+<p><a href="https://www.youtube.com/user/destinws2">Destin from Smarter Every Day</a></p>
+
+<p><a href="http://www.slate.com/articles/technology/technology/2015/07/freebooting_stolen_youtube_videos_going_viral_on_facebook.html">Slate.com on Freebooting</a></p>
+
+<p><a href="http://www.phrases.org.uk/meanings/grasp-the-nettle.html">Grasp the Nettle</a></p>
+
+<p><a href="http://www.marinetraffic.com/">Marinetraffic.com</a></p>
+
+<p><a href="http://www.marinetraffic.com/en/ais/details/ships/shipid:991737/mmsi:311000274/imo:9656101/vessel:ANTHEM_OF_THE_SEAS">Anthem of the Seas</a></p>
+
+<p><a href="http://www.epa.gov/climatechange/Downloads/ghgemissions/US-GHG-Inventory-2015-Main-Text.pdf">EPA.gov: Inventory of U.S. Greenhouse Gas Emissions and Sinks 1990-2013</a></p>
+
+<p><a href="https://www.reddit.com/r/self/comments/3cudi0/resignation_thank_you/">Ellen Pao's resignation thread on reddit</a></p>
+
+<p><a href="http://www.reddit.com/r/announcements/comments/3cucye/an_old_team_at_reddit/">Steve Huffman as CEO announcement thread on reddit</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Travis_Kalanick">Uber CEO Travis Kalanick</a></p>
+
+<p><a href="https://www.hipmunk.com">Hipmunk</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Alexis_Ohanian">Alexis Ohanian</a></p>
+
+<p><a href="https://www.reddit.com/r/alienblue">Alien Blue</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=zSZNsIFID28">Richard Feynman - Ode on a Flower</a></p>
+
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/55a92a4be4b02a0223678686/1437149797233/bradygreycartoon.jpg?format=1500w&amp;storage=local">Brady makes a comic about Grey</a></p>
+
+<p><a href="https://www.google.com/search?q=Scarlett+Johansson&amp;client=safari&amp;rls=en&amp;biw=878&amp;bih=811&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0CAYQ_AUoAWoVChMI6c-0jcnixgIVwsyACh3P8Q0Y&amp;dpr=2">Scarlett Johansson</a></p>
+
+<p><a href="http://www.bannaughty.org">BanNaughty.org</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:53:28</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/55a97503e4b07afa0a98322b/1462384000092/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/43.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/43.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #42: Never and Always</title>
 			<dc:creator>Hello Internet</dc:creator>
