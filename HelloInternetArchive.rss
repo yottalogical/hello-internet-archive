@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Mon, 16 Nov 2015 15:46:47 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Mon, 30 Nov 2015 14:37:36 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,64 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #52: 20,000 Years of Torment</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Mon, 30 Nov 2015 14:37:36 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/52</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:565c452ee4b05e0c71ceb841</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: subvocalization, Liberian county flags, Brady worries about who is driving him and the proliferation of screens in cars, Brady fingers ballots and then brings up coincidences and dreams, Brady tries to convince himself to buy an iPad Pro, what cars should people drive, before finishing off with how artificial intelligence will kill us all. (If we're lucky.)</p>
+
+<h1 id="broughttoyouby">Brought to You By</h1>
+
+<p><a href="http://igloosoftware.com/hello">Igloo: An intranet you'll actually like.</a></p>
+
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLO for 10% off your website</a></p>
+
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+
+<h1 id="shownotes">Show Notes</h1>
+
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/comments/3uuub2/hi_52_20000_years_of_torment/">Discuss this episode on the reddit</a></strong></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Subvocalization">Subvocalization</a></p>
+
+<p><a href="https://itunes.apple.com/us/app/instapaper/id288545208?mt=8">Instapaper (for the speedreading thing mentioned)</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Flag_of_Liberia#County_flags">Liberian County Flags</a></p>
+
+<p><a href="https://www.reddit.com/r/vexillology/comments/3s16z1/redesigned_liberian_county_flags/?subvocalization">Liberian County flags redesigned</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/John_Forbes_Nash,_Jr.#Death">John Nash death</a></p>
+
+<p><a href="https://www.lyft.com">Lyft</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Lyft#/media/File:LyftLA.jpg">Pink mustache</a></p>
+
+<p><a href="http://www.hellointernet.fm/flagvote">The Hello Internet flag referendum</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=JEYh5WACqEk">What Grey was prioritizing</a></p>
+
+<p><a href="http://www.relay.fm/cortex/17">Grey's 'fetish' podcast discussion of the iPad Pro</a></p>
+
+<p><a href="https://youtu.be/0qwALOOvUik?t=16m51s">iPad Pro</a></p>
+
+<p><a href="http://amzn.to/1QOPs2O">Superintelligence: Paths, Dangers, Strategies, Nick Bostrom</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=7PKx3kS7f4A">Computerphile: Why Asimov's Laws of Robotics Don't Work</a></p>
+
+<p><a href="http://hermiene.net/short-stories/i_have_no_mouth.html">I Have No Mouth, and I Must Scream by Harlan Ellison</a></p>
+
+<p><a href="https://itunes.apple.com/gb/tv-season/black-mirror-white-christmas/id952345976">Black Mirror: White Christmas</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>02:05:14</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/565c452ee4b05e0c71ceb841/1462383496973/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/52.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/52.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #51: Appropriately Thinking It</title>
 			<dc:creator>Hello Internet</dc:creator>
