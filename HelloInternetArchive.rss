@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Wed, 13 Jan 2016 16:23:56 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Fri, 29 Jan 2016 11:50:27 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,56 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #56: Guns, Germs, and Steel</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Fri, 29 Jan 2016 11:50:27 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/56</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:56ab434afd5d0840163f7f2d</guid>
+			<description><![CDATA[<p>Brady &amp; Grey discuss: Brady goes to the doctor (or doesn't), Corporate Compensation Corner <em>massage edition</em>, arguments about <em>Guns, Germs and Steel</em> and a theory of history, breaking news about the New Zealand flag referendum, and thoughts on <em>Making a Murderer</em>.  </p>
+
+<h1 id="broughttoyouby">Brought to You By</h1>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLO for 10% off your website</a></p>
+
+<p><a href="https://www.hover.com/?hellointernet">Hover: The best way to buy and manage domain names. Use coupon code 'Bullseye' for 10% off</a></p>
+
+<p><a href="https://www.harrys.com/?hellointernetpodcast">Harry's: Quality Men's Shaving Products. Promocode HI for $5 off your first purchase</a></p>
+
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+
+<h1 id="shownotes">Show Notes</h1>
+
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/comments/438ib1/hi_56_guns_germs_and_steel/">Discuss this episode on the reddit</a></strong></p>
+
+<p><a href="http://www.amazon.com/gp/product/0393317552/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0393317552&amp;linkCode=as2&amp;tag=hellinte-20&amp;linkId=6I3CT22WIETXBWMY">Guns, Germs, and Steel: The Fates of Human Societies, by Jared Diamond</a></p>
+
+<p><a href="http://www.hellointernet.fm/podcast/39">Brady and Grey discuss <em>Getting Things Done</em></a></p>
+
+<p><a href="https://upload.wikimedia.org/wikipedia/commons/e/e7/Phaseolus_vulgaris_seed.jpg">What a pulse is</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=JEYh5WACqEk">Grey: Americapox</a></p>
+
+<p><a href="https://www.reddit.com/r/badhistory/search?q=%22Guns+germs+and+steel%22&amp;restrict_sr=on&amp;sort=relevance&amp;t=all">/r/badhistory on <em>Guns, Germs, and Steel</em></a></p>
+
+<p><a href="http://www.amazon.com/gp/product/0393324818/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0393324818&amp;linkCode=as2&amp;tag=hellinte-20&amp;linkId=GJRPYED2UQP4ZYIR"><em>Moneyball</em>, by Michael Lewis</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/0553293354/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0553293354&amp;linkCode=as2&amp;tag=hellinte-20&amp;linkId=KEJT4DNNMGBBQYJQ"><em>Foundation</em>, by Isaac Asimov</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/0143120549/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0143120549&amp;linkCode=as2&amp;tag=hellinte-20&amp;linkId=NXT2YI5237L6TW55"><em>Triumph of the City</em>, by Edward Glaeser</a></p>
+
+<p><a href="https://www.govt.nz/browse/engaging-with-government/the-nz-flag-your-chance-to-decide/2-choices/">New Zealand flag referendum results</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/New_Zealand_flag_referendums,_2015–16#First_referendum">New Zealand flag referendum voting breakdown</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=34M2zdLc-2U">Making a Murder first episode on YouTube</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>02:01:36</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/56ab434afd5d0840163f7f2d/1462383223404/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/56.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/56.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #55: Element Zod</title>
 			<dc:creator>Hello Internet</dc:creator>
