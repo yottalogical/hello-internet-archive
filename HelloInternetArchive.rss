@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Fri, 25 Dec 2015 08:02:35 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 13 Jan 2016 16:23:56 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,76 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #55: Element Zod</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 13 Jan 2016 16:23:56 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/55</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5696756ba12f4464d7b88000</guid>
+			<description><![CDATA[<p>Brady &amp; Grey discuss when one is half way to death, the cult of <em>Star Wars</em> spoilers, darts, the results of the Hello Internet flag referendum, hotstoppers, the naming of new elements, and updates on the FITOTRON 5000 lifestyle.  </p>
+
+<h1 id="broughttoyouby">Brought to You By</h1>
+
+<p><a href="http://www.backblaze.com/hellointernet">Backblaze: Online backup for $5/month</a></p>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLO for 10% off your website</a></p>
+
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+
+<h1 id="shownotes">Show Notes</h1>
+
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/comments/40sqi4/hi_55_element_zod/">Discuss this episode on the reddit</a></strong></p>
+
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/56968c891115e004eef034b9/1452707148588/?format=1500w">Brady's Christmas present</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B00101ZOTA/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00101ZOTA&amp;linkCode=as2&amp;tag=hellinte-20&amp;linkId=GO5S5HEUFFHXCNA2">The Usual Suspects</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B0060D0N9O/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0060D0N9O&amp;linkCode=as2&amp;tag=hellinte-20&amp;linkId=YYZ4XAH7NMGZBPKL">The 6th Sense</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/World_War_II">World War II</a></p>
+
+<p><a href="https://wikipedia.org/wiki/Darts">Darts</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=WodKM9BdYzI">Flag Referendum time-lapse video</a></p>
+
+<p><a href="http://www.podcastpostcards.com">Podcastpostcards</a></p>
+
+<p><a href="http://www.bradyharanblog.com/flags">PRO and CLASSIC Hello Internet Flags</a></p>
+
+<p><a href="http://store.dftba.com/products/hello-internet-nail-and-gear-flag">THE PEOPLES' Standard Flag via DFTBA</a></p>
+
+<p><a href="http://store.dftba.com/products/hello-internet-nail-and-gear-shirt">Hello Internet Flag T-Shirts via DFTBA</a></p>
+
+<p><a href="https://teespring.com/nail-and-gear-women">Women's T-Shirts via Teespring</a></p>
+
+<p><a href="https://twitter.com/rygbranfi/status/685379812853157888">Flying the Flag</a></p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/3476522/Ftp/HI%20Flag.svg">Hello Internet Flag Vector</a></p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/3476522/Ftp/HI%20Flag.png">Hello Internet Flag PNG</a></p>
+
+<p><a href="http://www.podcastpostcards.com/postcards/2016/1/9/young-astronaut">Derek's late vote for Flaggy Flag</a></p>
+
+<p><a href="https://www.justgiving.com/Hotstopper">Hotstopper fundraiser</a></p>
+
+<p><a href="http://www.iupac.org/news/news-detail/article/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118.html">IUPAC official element discovery announcement</a></p>
+
+<p><a href="https://youtu.be/Oy8ZMFXS_5E">Periodic Videos: FOUR new elements video (when Brady thinks it REALLY becomes official)</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=dngOH9G4UPw">General Zod as an angry sorority girl</a></p>
+
+<p><a href="https://youtu.be/DybxwjELg4A">Henry's blistering Fitotron 5000m</a></p>
+
+<p><a href="http://store.dftba.com/products/hello-internet-exercise-shirt">FITOTRON 5000 Shirt</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:38:29</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5696756ba12f4464d7b88000/1462383253286/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/55.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/55.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #54: Star Wars Christmas Special</title>
 			<dc:creator>Hello Internet</dc:creator>
