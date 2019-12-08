@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Fri, 29 Jan 2016 11:50:27 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 17 Feb 2016 20:59:33 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,68 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #57: Podcasters React</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 17 Feb 2016 20:59:33 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/57</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:56c4d48a2fe131b524a9c261</guid>
+			<description><![CDATA[<p>Brady &amp; Grey discuss: recent travels, bi-weekly weigh in, the FineBros-gate, and <em>So You've Been Publicly Shamed</em>.</p>
+
+<h1 id="broughttoyouby">Brought to You By</h1>
+
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+
+<p><a href="http://www.backblaze.com/hellointernet">Backblaze: Online backup for $5/month</a></p>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLO for 10% off your website</a></p>
+
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+
+<h1 id="shownotes">Show Notes</h1>
+
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/comments/46ayfz/hi_57_podcasters_react/">Discuss this episode on the reddit</a></strong></p>
+
+<p><a href="https://www.instagram.com/brady_haran/">Brady on Instagram</a></p>
+
+<p><a href="https://www.instagram.com/adorable_audrey/">Audrey on Instagram</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=jYnkNY-SOKo&amp;feature=youtu.be">Brady riding to his vila in the Maldives just before getting locked out</a></p>
+
+<p><a href="https://itunes.apple.com/us/app/life-cycle-chart-your-life/id1064955217?mt=8&amp;uo=4&amp;at=11l5Fy">Grey's location-tracking app</a></p>
+
+<p><a href="https://www.reddit.com/r/CGPGrey/comments/438ib1/hi_56_guns_germs_and_steel/">Guns, Germs and Steel discussion</a></p>
+
+<p><a href="http://omelegg.com">Omelegg</a></p>
+
+<p><a href="https://www.youtube.com/user/TheFineBros">The FineBros</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=eLtbpTNdUrk">FineBros original announcement video</a></p>
+
+<p><a href="https://medium.com/@hankgreen/the-fine-brothers-controversy-explained-long-version-42d3285581d1#.2rkjalul4">Hank Green: The Fine Brothers Controversy Explained Long Version</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=Z-Zr7c-J6qE">Grey's parody: Stick Figures around the world</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=vD_mR4C5fdk">FineBros Update video</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=9dPnaAt-Rbs">Grey's update parody</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=eaJtjJNrWf0">Numberphile: Calculator unboxing</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=00Qu1kgsGpM">Numberphile: Professors React to 2048</a></p>
+
+<p><a href="https://itunes.apple.com/us/app/threes!/id779157948?mt=8&amp;uo=4&amp;at=11l5Fy">Threes</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/1594487138/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1594487138&amp;linkCode=as2&amp;tag=hellinte-20&amp;linkId=AMW5MRWEQJKT7VI2"><em>So You've Been Publicly Shamed</em>, by Jon Ronson</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Online_shaming#Sacco_incident">The Sacco incident</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>02:06:09</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/56c4d48a2fe131b524a9c261/1462383193731/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/57.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/57.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #56: Guns, Germs, and Steel</title>
 			<dc:creator>Hello Internet</dc:creator>
