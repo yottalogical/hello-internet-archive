@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Wed, 17 Feb 2016 20:59:33 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Mon, 29 Feb 2016 21:22:27 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,68 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #58: Hawk &amp; Mouse</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Mon, 29 Feb 2016 21:22:27 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/58</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:56d4b03ce32140fc7fce8d77</guid>
+			<description><![CDATA[<p>Brady and Grey discuss: Brady visits Derek, greyhound corner, the UK/EU referendum, and problems with YouTube's content ID system and freeboot depression.  </p>
+
+<h2 id="broughttoyouby">Brought to You By</h2>
+
+<p><a href="https://www.hover.com/?hellointernet">Hover: The best way to buy and manage domain names. Use coupon code 'React' for 10% off</a></p>
+
+<p><a href="https://www.harrys.com/?hellointernetpodcast">Harry's: Quality Men's Shaving Products. Promocode HI for $5 off your first purchase</a></p>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLO for 10% off your website</a></p>
+
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+
+<h2 id="shownotes">Show Notes</h2>
+
+<p><strong><a href="http://www.reddit.com/r/cgpgrey">Discuss this episode on the reddit</a></strong></p>
+
+<p><a href="https://www.youtube.com/watch?v=LOE7h-ae3y0">Jim Carrey in Brazil</a></p>
+
+<p><a href="https://www.youtube.com/user/1veritasium">Derek of Veritasium</a></p>
+
+<p><a href="https://twitter.com/BradyHaran/status/701336654976458752/photo/1">Brady taking advantage of Derek's pointless recklessness</a></p>
+
+<p><a href="https://www.youtube.com/user/vsauce">Michael of Vsauce</a></p>
+
+<p><a href="https://www.reddit.com/r/CGPGrey/comments/48all2/zebra_vs_horses_americapox_part_2/">Americapox Part 2</a></p>
+
+<p><a href="http://www.independent.co.uk/news/uk/home-news/bookmakers-urged-to-boost-their-contribution-to-greyhound-welfare-a6894386.html">Bookmakers urged to boost their contribution to greyhound welfare</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=ujbXk26yeHg">lulu the greyhound crash</a></p>
+
+<p><a href="https://www.justgiving.com/lulu-greyhound">Lulu's fundraiser for the Retired Greyhound Trust</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/United_Kingdom_European_Union_membership_referendum,_2016">UK/EU independence referendum</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Flag_of_Europe">EU Flag</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=vjXNvLDkDTA">GradeAunderA: Everything That's Wrong with YouTube Part 1</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=sF2tCY281Rk">GradeAunderA: Everything That's Wrong with YouTube Part 2</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=QNZPQssir4E">I Hate Everything: copyright problems</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=zVqFAMOtwaI">Nostalgia Critic: Where's The Fair Use?</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=nuTHhtCyzLg">Your Movie Sucks: YouTube's Content ID System SUCKS</a></p>
+
+<p><a href="https://www.facebook.com/cgpgrey/">Grey's Facebook page</a></p>
+
+<p><a href="https://www.facebook.com/numberphile">Numberphile's Facebook page</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:42:44</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/56d4b03ce32140fc7fce8d77/1462383133073/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/58.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/58.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #57: Podcasters React</title>
 			<dc:creator>Hello Internet</dc:creator>
