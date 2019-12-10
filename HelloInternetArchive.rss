@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Mon, 29 Feb 2016 21:22:27 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 23 Mar 2016 17:33:08 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,50 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #59: Consumed by Donkey Kong</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 23 Mar 2016 17:33:08 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/59</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:56f2a0f362cd94938da23c6c</guid>
+			<description><![CDATA[<p>Brady and Grey discuss: copyright and the Parliament, the inevitable and unavoidable <em>Guns, Germs, and Steel</em> follow-up, further travels of Brady, bi-something weigh in, and video games.</p>
+<h2 id="brought-to-you-by">Brought to You By</h2>
+<p><a href="https://www.harrys.com/?hellointernetpodcast">Harry's: Quality Men's Shaving Products. Promocode HI for $5 off your first purchase</a></p>
+<p><a href="http://www.backblaze.com/hellointernet">Backblaze: Online backup for $5/month</a></p>
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLO for 10% off your website</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show Notes</h2>
+<p><strong><a href="http://www.reddit.com/r/cgpgrey">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg">Objectivity</a></p>
+<p><a href="https://www.youtube.com/user/cassetteboy">Cassetteboy</a></p>
+<p>Guns, Germs, and Steel assorted links:</p>
+<ul>
+<li><a href="https://www.reddit.com/r/CGPGrey/comments/438ib1/hi_56_guns_germs_and_steel/">GG&amp;S Discussion Thread</a></li>
+<li><a href="https://www.reddit.com/r/CGPGrey/comments/438ib1/hi_56_guns_germs_and_steel/czgdxm1">Grey's conversation with mmilosh</a></li>
+<li>Assorted Bad History Discussions:<ul>
+<li><a href="https://www.reddit.com/r/badhistory/comments/3umg7b/inaccuracies_of_grey_a_diseasefree_paradise_and/?">Inaccuracies of Grey: A Disease-Free Paradise and Immune Europeans</a></li>
+<li><a href="https://www.reddit.com/r/badhistory/comments/44gk0i/grey_germs_and_generalization/?">Grey Germs and Generalization</a></li>
+<li><a href="https://www.reddit.com/r/badhistory/comments/43yqcc/wondering_wednesday_whats_the_point/?">Wondering Wednesday "What's the point?"</a></li>
+</ul>
+</li>
+</ul>
+<p><a href="https://www.youtube.com/watch?v=rE3j_RHkqJc">This Video Will Make You Angry</a></p>
+<p><a href="https://www.reddit.com/r/changemyview">r/changemyview</a></p>
+<p><a href="https://www.youtube.com/watch?v=X7valIB1hxA">Grey Twitches</a></p>
+<p><a href="https://www.youtube.com/watch?v=00Qu1kgsGpM">Professors React to 2048 - Numberphile</a></p>
+<p><a href="https://www.youtube.com/watch?v=WpgB1fSigQo">LCD Donkey Kong</a></p>
+<p><a href="http://www.bradyharanblog.com/blog/2016/3/4/video-games">Brady's History with video games</a></p>
+<p><a href="https://www.youtube.com/watch?v=W2jLrNYzyr8">The Amazing Graphics of Pole Position for the Atari 2600</a></p>
+<p><a href="https://gaming.youtube.com/watch?v=ab3nitwX-vE">Myst Walkthrough</a></p>
+<p><a href="https://www.flickr.com/photos/cgpgrey/4888040757/">Greenwich Foot Tunnel</a></p>
+<p><a href="https://itunes.apple.com/us/app/year-walk/id555916407?mt=8&amp;uo=4&amp;at=11l5Fy">Year Walk</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>02:07:10</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/56f2a0f362cd94938da23c6c/1462383104642/1500w/Hello+Internet+slides.131.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/59.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/59.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #58: Hawk &amp; Mouse</title>
 			<dc:creator>Hello Internet</dc:creator>
