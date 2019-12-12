@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Wed, 23 Mar 2016 17:33:08 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 30 Mar 2016 16:04:10 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,38 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #60: The Beautiful Game</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 30 Mar 2016 16:04:10 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/60</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:56fbb3fd4c2f8569d96c73c6</guid>
+			<description><![CDATA[<p>Brady and Grey discuss: transporters and dying while asleep, Brady's return from <strong>The Forbidden Kingdom</strong>, hotstopper follow-up, the best month of gaming, the temptations of a smaller phone, conclusion of the Super Bowl of Flags, ye olde corporate compensation corner, and robots are coming to take your job corner.  </p>
+<h2 id="brought-to-you-by">Brought to You By</h2>
+<p><a href="https://www.hover.com/?hellointernet">Hover: The best way to buy and manage domain names. Use coupon code 'GERMS' for 10% off</a></p>
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLO for 10% off your website</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show Notes</h2>
+<p><strong><a href="http://www.reddit.com/r/cgpgrey">Discuss this episode on the reddit</a></strong></p>
+<p><a href="http://www.cgpgrey.com/blog/transporter">Grey: The Trouble with Transporters</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Forbidden_Kingdom">The Forbidden Kingdom</a></p>
+<p><a href="https://www.instagram.com/p/BCnH4Q2uStT/">Brady at the Taj Mahal with like a million other people</a></p>
+<p><a href="https://www.youtube.com/watch?v=i3AK7c42mUY">Brady's Mount Everest Fly By</a></p>
+<p><a href="https://www.youtube.com/watch?v=YsZqN-uEgQU">Paro Landing</a></p>
+<p><a href="https://twitter.com/cgpgrey/status/711195766581301249">Brady explosions photo</a></p>
+<p><a href="http://www.virtualatari.org/soft.php?soft=Pitfall_2">Pitfall 2</a></p>
+<p><a href="https://www.apple.com/iphone-se/">iPhone SE</a></p>
+<p><a href="http://www.electionresults.govt.nz/2016_flag_referendum2/">Second Referendum on the New Zealand Flag Preliminary Result</a></p>
+<p><a href="https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol">AlphaGo versus Lee Sedol</a></p>
+<p><a href="https://www.youtube.com/user/Computerphile">Computerphile</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:36:48</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/56fbb3fd4c2f8569d96c73c6/1462383031752/1500w/Hello+Internet+slides.134.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/60.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/60.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #59: Consumed by Donkey Kong</title>
 			<dc:creator>Hello Internet</dc:creator>
