@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Wed, 30 Mar 2016 16:04:10 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 20 Apr 2016 18:59:23 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,39 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #61: Tesla and King Tut</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 20 Apr 2016 18:59:23 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/61</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5717d00520c6470ae10b9a2f</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: the roofs of their houses, the mighty black stump, pointing at things, vandalizing wikipedia, the Tesla model 3, King Tut corner, The Cricket World Cup, the word brave, and spec work and working for free.</p>
+<h2 id="brought-to-you-by">Brought to You By</h2>
+<p><a href="https://www.hover.com/?hellointernet">Hover: The best way to buy and manage domain names. Use coupon code 'BLACKSTUMP' for 10% off</a></p>
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLO for 10% off your website</a></p>
+<p><a href="https://www.harrys.com/?hellointernetpodcast">Harry's: Quality Men's Shaving Products. Promocode HI for $5 off your first purchase</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show Notes</h2>
+<p><strong><a href="http://www.reddit.com/r/cgpgrey">Discuss this episode on the reddit</a></strong></p>
+<p><a href="http://bit.ly/Black_Stump_T">The Mighty Black Stump T-shirt</a></p>
+<p><a href="https://www.youtube.com/watch?v=DHEc_POBL3w">HI ⌘X on YouTube: Listener Photos</a></p>
+<p><a href="http://www.bradyharanblog.com/blog/2016/4/5/pointing-inception">Pointing at Things</a></p>
+<p><a href="https://www.teslamotors.com/model3">Tesla Model 3</a></p>
+<p><a href="https://www.yahoo.com/sy/ny/api/res/1.2/eWxDm.qJFkHjaOcVmC4VSQ--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/digital_trends_973/d0ed9a54125b168ad3f0f53414c0229d">Model 3 Dashboard</a></p>
+<p><a href="https://www.youtube.com/watch?v=Q6jc3oVQVF0">The Holden Callous/Calais</a></p>
+<p><a href="http://www.npr.org/sections/thetwo-way/2016/03/17/470823945/king-tuts-tomb-may-have-hidden-spaces-containing-organic-metallic-materials">King Tut's Tomb May Have Hidden Spaces</a></p>
+<p><a href="https://upload.wikimedia.org/wikipedia/commons/2/27/Luxor_casino_and_hotel-20070722.jpg">Luxor</a></p>
+<p><a href="http://www.bradyharanblog.com/blog/2016/4/20/valley-of-the-kings">Brady's Egypt photos</a></p>
+<p><a href="http://www.icc-cricket.com/world-t20/videos/media/id/8783/carlos-brathwaites-4-x-sixes-to-win-2016-wt20-for-west-indies">Cricketeer hits four sixes</a></p>
+<p><a href="http://wordvietnam.com/people-culture/the-big-story/the-creativity-debate">The Creativity Debate</a></p>
+<p><a href="https://www.youtube.com/watch?v=essNmNOrQto">Say no to spec</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:50:32</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5717d00520c6470ae10b9a2f/1462383003098/1500w/Hello+Internet+slides.136.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/61.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/61.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #60: The Beautiful Game</title>
 			<dc:creator>Hello Internet</dc:creator>
