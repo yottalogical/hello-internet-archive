@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Wed, 20 Apr 2016 18:59:23 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Fri, 29 Apr 2016 14:43:01 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,41 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #62: Cheer Pressure</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Fri, 29 Apr 2016 14:43:01 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/62</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5723680860b5e97577d561c6</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: environmental nagging, cheer pressure, apple products and wants/needs/weeds, singular use of 'we' and caring less, Boaty McBoatface, Encryption and if your phone is part of you.  </p>
+<h2 id="brought-to-you-by">Brought to You By</h2>
+<p><a href="http://www.FreshBooks.com/hello">FreshBooks: Online invoicing made easy</a></p>
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLO for 10% off your website</a></p>
+<p><a href="http://www.backblaze.com/hellointernet">Backblaze: Online backup for $5/month</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show Notes</h2>
+<p><strong><a href="http://www.reddit.com/r/cgpgrey">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://twitter.com/BradyHaran/status/723119955462467586">Brady Haran or Edmund Hillary</a></p>
+<p><a href="http://qz.com/658010/a-year-after-its-launch-its-now-clear-that-pretty-much-no-one-needs-an-apple-watch/">A year after its launch, it’s now clear that pretty much no one needs an Apple Watch</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Jordan_Spieth">Jordan Spieth</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Danny_Willett">Danny Willett</a></p>
+<p><a href="https://twitter.com/numberphile">We are Numberphile</a></p>
+<p><a href="https://twitter.com/hellointernetfm">H.I. Twitter account</a></p>
+<p><a href="https://twitter.com/BradyHaran">I am Brady</a></p>
+<p><a href="http://www.theatlantic.com/international/archive/2016/04/boaty-mcboatface-britain-democracy/479088/">Boaty McBoatface</a></p>
+<p><a href="https://en.wikipedia.org/wiki/T-Shirt_Hell">Sunshine Megatron</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Mister_Splashy_Pants">Mister Splashy Pants</a></p>
+<p><a href="https://www.youtube.com/watch?v=VPBH1eW28mo">Should all locks have keys? Phones, Castles, Encryption, and You.</a></p>
+<p><a href="https://en.wikipedia.org/wiki/FBI–Apple_encryption_dispute">FBI–Apple encryption dispute</a></p>
+<p><a href="https://www.apple.com/business/docs/iOS_Security_Guide.pdf">Apple's iOS Security document</a></p>
+<p><a href="https://www.youtube.com/watch?v=e-ZpsxnmmbE">I, Phone</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:39:50</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5723680860b5e97577d561c6/1461943454474/1500w/Hello+Internet+slides.138.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/62.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/62.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #61: Tesla and King Tut</title>
 			<dc:creator>Hello Internet</dc:creator>
