@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Fri, 29 Apr 2016 14:43:01 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 18 May 2016 17:09:09 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,44 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #63: One in Five Thousand</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 18 May 2016 17:09:09 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/63</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:573c9e70f8baf3591b0570d9</guid>
+			<description><![CDATA[<p>Grey &amp; Brady discuss: clapping, cheer pressure revisited, Boaty McBoatface / David Attenborough, famous explorers you <em>should</em> know, self-incrimination and being compelled to give testimony, impending Uber tipping, AVs/RVs/SUVs, The Leicester City Foxes <em>fairy tale</em>, the UK/EU referendum (Brexit), and is San Francisco the most valuable city in the world and can maybe London be second.  </p>
+<h2 id="brought-to-you-by">Brought to You By</h2>
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLO for 10% off your website</a></p>
+<p><a href="https://www.hover.com/?hellointernet">Hover: The best way to buy and manage domain names. Use coupon code 'CheerPressure' for 10% off</a></p>
+<p><a href="https://www.harrys.com/?hellointernetpodcast">Harry's: Quality Men's Shaving Products. Promocode HI for $5 off your first purchase</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show Notes</h2>
+<p><a href="http://www.reddit.com/r/cgpgrey">Discuss this episode on the reddit</a></p>
+<p><a href="https://www.youtube.com/watch?v=Pgum6OT_VH8">Muse: Starlight</a></p>
+<p><a href="https://www.youtube.com/watch?v=P_NYdpIJyD0">State of the Union: Just the claps</a></p>
+<p><a href="http://www.bbc.co.uk/programmes/b006t1q9">The Clappy Clap Show</a></p>
+<p><a href="https://www.reddit.com/r/CGPGrey/comments/4gzpk0/hi_62_cheer_pressure/d2mpx7l">A start at defining cheer pressure</a></p>
+<p><a href="http://arstechnica.com/science/2016/05/boaty-mcboatface-rrs-sir-david-attenborough-jo-johnson/">Boaty McBoatface beaten by Sir David Attenborough in UK science ship naming</a></p>
+<p><a href="https://en.wikipedia.org/wiki/David_Attenborough">David Attenborough</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Brian_Cox_%28physicist%29">The Brian Cox</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Robert_Falcon_Scott">Robert Falcon Scott</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Neil_Armstrong">Neil Armstrong</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Edmund_Hillary">Edmund Hillary</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Tenzing_Norgay">Tenzing Norgay</a></p>
+<p><a href="https://en.wiktionary.org/wiki/keep_shtum">Keeing Shtump</a></p>
+<p><a href="http://www.theverge.com/2016/4/22/11490246/uber-driver-tip-settlement-lawsuit-lyft-app">You should probably tip your Uber driver from now on</a></p>
+<p><a href="http://www.lcfc.com">The Leicester City Foxes</a></p>
+<p><a href="http://www.bbc.co.uk/sport/football/35988673">Leicester City win Premier League</a></p>
+<p><a href="https://en.wikipedia.org/wiki/United_Kingdom_European_Union_membership_referendum,_2016">United Kingdom European Union membership referendum, 2016</a></p>
+<p><a href="https://news.ycombinator.com/item?id=10873257">San Francisco Rents</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>02:04:05</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/573c9e70f8baf3591b0570d9/1463658538640/1500w/Hello+Internet+slides.139.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/63.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/63.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #62: Cheer Pressure</title>
 			<dc:creator>Hello Internet</dc:creator>
