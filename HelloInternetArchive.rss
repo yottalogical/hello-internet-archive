@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 30 Jun 2016 19:58:19 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Mon, 18 Jul 2016 23:19:02 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,52 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #66: A Classic Episode</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Mon, 18 Jul 2016 23:19:02 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/66</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:578d58a9e6f2e118be2e6090</guid>
+			<description><![CDATA[<p>Brady and Grey discuss: Snapchat again, emoji flags, Tesla, Brady's papercuts, plane crash corner, and health corner.  And also Brexit, long after the discussion could possibly be relevant.  </p>
+<h2 id="brought-to-you-by">Brought to You By</h2>
+<p><a href="http://fractureme.com/podcast">Fracture: Photos printed in vivid color directly on glass.</a></p>
+<p><a href="http://igloosoftware.com/hello">Igloo: An intranet you'll actually like</a></p>
+<p><a href="http://backblaze.com/hellointernet">Backblaze: Online backup for $5/month</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show Notes</h2>
+<p><a href="https://www.reddit.com/r/CGPGrey/comments/4ti1d2/hi_66_a_classic_episode/">Discuss this episode on the reddit</a></p>
+<p><a href="https://youtu.be/aPkd2uibHTo?t=57m45s">Grey &amp; Brady discuss <em>Getting Things Done</em></a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/578ccd2403596ee71370b59d/1468845390905/IMG_3690.jpg?format=1500w">The photo in Brady's mystery package</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/57753fdf440243a48f5a10db/1467301898976/?format=1500w">Grey on Snapchat</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5775266e2994ca36059821fc/1467295377378/?format=1500w">Brady on Snapchat</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5775272737c58164fa2d6ed2/1467296057375/?format=1500w">Destin on Snapchat</a></p>
+<p><a href="https://www.youtube.com/watch?v=_7TXoVjf_64">Destin annoys Grey by putting him on Snapchat</a></p>
+<p><a href="http://snapchat-blog.com/post/146998839575/introducing-memories">Snapchat introduces memories</a></p>
+<p><a href="http://blog.emojipedia.org/emoji-flags-for-england-scotland-and-wales/">Emoji flags for The Home Nations</a></p>
+<p><a href="http://emojipedia.org/flag-for-vatican-city/">Vatican City Flag emoji</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Flag_of_England">Flag of England</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Flag_of_Scotland">Flag of Scotland</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Flag_of_Wales">Flag of Wales</a></p>
+<p><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Union_Flag_%28including_Wales%29.svg/1280px-Union_Flag_%28including_Wales%29.svg.png">Union Jack with Welsh dragon</a></p>
+<p><a href="http://twitter.com/marcoarment">Marco Arment</a> wrote an article about the <a href="https://marco.org/2016/07/06/tesla-autopilot">Tesla Autopilot</a> after we recorded this episode.  </p>
+<p><a href="https://en.wikipedia.org/wiki/Tesla_Model_S#Fatal_accident">Tesla fatal accident</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Liberia">Liberia</a> vs <a href="https://en.wikipedia.org/wiki/China">China</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Boeing_787_Dreamliner">Boeing 787</a></p>
+<p><a href="http://gizmodo.com/setsession?r=http%3A%2F%2Fgizmodo.com%2F5829395%2Fhow-boeings-magical-787-dreamliner-windows-work&amp;sessionId=27f666a2-b5a3-4243-8f2e-f56ad275754f">Dreamliner windows</a></p>
+<p><a href="https://operationthonapa.com/31-years-later-we-found-the-flight-recorders-786d0f9fde61#.w1k277319">31 years later we found the flight recorder</a></p>
+<p><a href="https://www.youtube.com/watch?v=JTL4dj3Gx1o">Water Boiling at Everest</a></p>
+<p><a href="http://thesummitfilm.com">The Summit</a></p>
+<p><a href="http://cheeseboardcollective.coop/">The Cheeseboard</a></p>
+<p><a href="https://en.wikipedia.org/wiki/United_Kingdom_withdrawal_from_the_European_Union">Brexit</a></p>
+<p><a href="https://youtu.be/RdovrwkE3Qc?t=1h13m48s">Brady &amp; Grey discuss Brexit pre-Brexit</a></p>
+<p><a href="https://www.facebook.com/badscience/photos/a.10151151382813911.466962.26030473910/10154194462328911/">Ben Goldacre on Brexit</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:56:52</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/578d58a9e6f2e118be2e6090/1468933392675/1500w/Hello+Internet+slides.146.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/66.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/66.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H. I. #65: Operation Zeus</title>
 			<dc:creator>Hello Internet</dc:creator>
