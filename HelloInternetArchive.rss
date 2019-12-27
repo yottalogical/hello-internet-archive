@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Tue, 30 Aug 2016 22:05:57 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Sat, 17 Sep 2016 00:22:16 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,39 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #69: Ex_Machina</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Sat, 17 Sep 2016 00:22:16 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/69</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:57dc89272e69cf9a7adacfde</guid>
+			<description><![CDATA[<p>Brady and Grey discuss: saving Grey's horological soul, how good or effective are Apple's presentations, butt dialing, freebooted Grey, YouTube demonitization, and Ex_Machina.</p>
+<h2 id="brought-to-you-by">Brought to You By</h2>
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+<p><a href="https://www.hover.com/?hellointernet">Hover: The best way to buy and manage domain names. Use coupon code 'SplitBrain' for 10% off</a></p>
+<p><a href="http://fractureme.com/podcast">Fracture: Photos printed in vivid color directly on glass.</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show Notes</h2>
+<p><a href="https://www.reddit.com/r/CGPGrey/comments/5351zs/hi_69_ex_machina/"><strong>Discuss this episode on The Reddit</strong></a></p>
+<p><a href="https://en.wikipedia.org/wiki/1999_South_Dakota_Learjet_crash">1999 South Dakota Learjet crash</a></p>
+<p><a href="http://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/57da845bbe65946d7044c868/1473938533452/?format=1500w">Listener photo: Wayne, the real air traffic controller</a></p>
+<p><a href="http://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/57da846bbe65946d7044c8b7/1473938543131/?format=1500w">Listener photo: the original radar scope</a></p>
+<p><a href="http://observer.com/2016/08/not-a-drill-seti-is-investigating-a-possible-extraterrestrial-signal-from-deep-space/">Not a Drill: SETI Is Investigating a Possible Extraterrestrial Signal From Deep Space</a></p>
+<p><a href="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_FTlz0AHzrw/v0/-1x-1.jpg">Apple watch in a meeting</a></p>
+<p><a href="https://www.youtube.com/watch?v=NS0txu_Kzl8">Apple September 2016 event</a></p>
+<p><a href="https://www.youtube.com/watch?v=iHzzSao6ypE">The Simple Solution to Traffic</a></p>
+<p><a href="http://static1.squarespace.com/static/5005afd7e4b0a6953320bf3f/t/57c6ceb69de4bb8747981006/1472646990392/">Freebooters, take this GIF</a></p>
+<p><a href="http://www.bradyharanblog.com/vinyl/hellointernet">Project revolution!</a></p>
+<p><a href="https://www.amazon.com/Ex-Machina-Alicia-Vikander/dp/B011KKCQH8/ref=sr_1_1?s=instant-video&amp;ie=UTF8&amp;qid=1474055798&amp;sr=1-1&amp;keywords=ex+machina">Ex Machina</a></p>
+<p><a href="https://youtu.be/IbrD5-QozXU?t=34m12s">Brady &amp; Grey review <em>Her</em></a></p>
+<p><a href="https://youtu.be/t4P-DHmPvoU?t=1h42m15s">Brady &amp; Grey review <em>The Martian</em></a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>02:34:49</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/57dc89272e69cf9a7adacfde/1474116162984/1500w/Hello+Internet+slides.152.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/69.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/69.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #68: Project Revolution</title>
 			<dc:creator>Hello Internet</dc:creator>
