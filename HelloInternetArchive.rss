@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Sat, 17 Sep 2016 00:22:16 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Fri, 30 Sep 2016 21:41:22 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,38 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #70: Bun Fight</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Fri, 30 Sep 2016 21:41:22 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/70</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:57eed74b59cc68abeb8353b2</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: a hypothetical experiment, the Hello Internet YouTube channel crosses 100,000 subscribers, celebrity news corner, The Great British Bake Off, listener photos, Brady fights the machine, and YouTube heroes.</p>
+<h2 id="brought-to-you-by">Brought to You By</h2>
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+<p><a href="http://backblaze.com/hellointernet">Backblaze: Online backup for $5/month</a></p>
+<p><a href="https://www.harrys.com/hellointernet">Harry's: Quality Men's Shaving Products. Promocode HI for your free trial</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show Notes</h2>
+<p><a href="https://www.reddit.com/r/cgpgrey"><strong>Discuss this episode on the reddit</strong></a></p>
+<p><a href="https://www.youtube.com/user/HelloInternetPodcast">Hello Internet on YouTube</a></p>
+<p><a href="https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg">Objectivity</a></p>
+<p><a href="http://www.iop.org/about/awards/education/kelvin/medallists/page_67620.html">2016 Kelvin Medal and prize of the Institute of Physics</a></p>
+<p><a href="http://www.usatoday.com/story/life/people/2016/09/20/reports-angelina-jolie-files-divorce-brad-pitt/90731054/">Angelina Jolie files for divorce from Brad Pitt</a></p>
+<p><a href="https://www.youtube.com/watch?v=hEcMw6gBjMw">H.I. #64: The Quiz Show</a></p>
+<p><a href="https://en.wikipedia.org/wiki/The_Great_British_Bake_Off">The Great British Bake Off</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/57ee740d20099ef0aecde3d1/1475245072418/adam_pic.jpg?format=1500w">Listener photo: where's Waldo</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/57ee741720099ef0aecde42a/1475245085265/?format=1500w">HI Flag in Norway</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Trolltunga">Trolltunga</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/57ee74ede6f2e10e48800612/1475245397289/?format=1500w">Brady's payment envelope</a></p>
+<p><a href="https://www.youtube.com/watch?v=Wh_1966vaIA">YouTube Heroes</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:34:27</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/57eed74b59cc68abeb8353b2/1475514189799/1500w/Hello+Internet+slides.154.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/70.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/70.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #69: Ex_Machina</title>
 			<dc:creator>Hello Internet</dc:creator>
