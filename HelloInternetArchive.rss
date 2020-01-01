@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Fri, 30 Sep 2016 21:41:22 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Fri, 28 Oct 2016 00:37:39 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,39 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #71: Trolley Problem</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Fri, 28 Oct 2016 00:37:39 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/71</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:581281bdff7c504efe6d14bb</guid>
+			<description><![CDATA[<p>Brady / Grey discuss: silver play buttons, Apple Watches and knowing nothing about computer security, project revolution pressing, Brady visits Australia-land, the trolley problem and self-driving cars, Brady's papercuts, and BREXIT!</p>
+<h2 id="brought-to-you-by">Brought to You By</h2>
+<p><a href="https://www.hover.com/?hellointernet">Hover: The best way to buy and manage domain names. Use coupon code 'SilverButton' for 10% off</a></p>
+<p><a href="http://fractureme.com/podcast">Fracture: Photos printed in vivid color directly on glass.</a></p>
+<p><a href="https://www.squarespace.com/?channel=podcast&amp;subchannel=themidroll&amp;source=hellointernet">Squarespace: Use code HELLO for 10% off your website</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show Notes</h2>
+<p><a href="https://www.reddit.com/r/cgpgrey"><strong>Discuss this episode on the reddit</strong></a></p>
+<p><a href="https://static.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/58123f8346c3c437b99a7ee1/1477590963464/Screen+Shot+2016-10-27+at+18.54.04.png?format=1500w">Grey's coffee at Starbucks</a></p>
+<p><a href="https://www.youtube.com/user/HelloInternetPodcast">Hello Internet YouTube channel</a></p>
+<p><a href="https://www.youtube.com/user/cgpgrey2">CGPGrey2</a></p>
+<p><a href="https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg">Objectivity</a></p>
+<p><a href="https://www.youtube.com/channel/UCyp1gCHZJU_fGWFf2rtMkCg">Numberphile2</a></p>
+<p><a href="http://arstechnica.com/security/2016/10/apple-watch-banned-uk-cabinet-meetings-russian-hackers/">Apple Watch banned from UK cabinet meetings over Russian hacker fears</a></p>
+<p><a href="https://twitter.com/topherolson/status/745294977064828929?ref_src=twsrc%5Etfw">Zuckerburg covers his camera and microphone</a></p>
+<p><a href="https://www.youtube.com/watch?v=F51fPhly0Zw">Project revolution pressing</a></p>
+<p><a href="https://www.reddit.com/r/HelloInternet/">r/HelloInternet</a></p>
+<p><a href="https://www.instagram.com/p/BLKrTBwDyPK/">Brady at the Mighty Black Stump</a></p>
+<p><a href="http://moralmachine.mit.edu/">The Moral Machine</a></p>
+<p><a href="https://www.youtube.com/watch?v=m3_I2rfApYk">Brexit, Briefly</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:42:01</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/581281bdff7c504efe6d14bb/1477669963768/1500w/Hello+Internet+slides.155.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI_71F.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI_71F.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #70: Bun Fight</title>
 			<dc:creator>Hello Internet</dc:creator>
