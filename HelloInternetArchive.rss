@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Fri, 28 Oct 2016 00:37:39 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Mon, 31 Oct 2016 19:04:15 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,42 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #72: 64 Pairs of Underwear</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Mon, 31 Oct 2016 19:04:15 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/72</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:58178a98f7e0ab86f3d43f84</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: shopping for clothes, Siri's irritation at having to do what you tell her, project revolution, freebooting and watermarks, YouTube Red one year later, and the future of content on YouTube.</p>
+<h2 id="brought-to-you-by">Brought to You By</h2>
+<p><a href="https://www.squarespace.com/?channel=podcast&amp;subchannel=themidroll&amp;source=hellointernet">Squarespace: Use code HELLO for 10% off your website</a></p>
+<p><a href="http://backblaze.com/hellointernet">Backblaze: Online backup for $5/month</a></p>
+<p><a href="https://www.harrys.com/hi">Harry's: Quality Men's Shaving Products. Promocode HI for your free trial</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show Notes</h2>
+<p><a href="https://www.reddit.com/r/cgpgrey"><strong>Discuss this episode on the reddit</strong></a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5817335c6a496367e36066cc/1477915912121/">Grey in a Santa Suit</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5817872fe4fcb5fd592341be/1477936944497/Slack+for+iOS+Upload.png">Hold On</a>  </p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5817356529687f5a8ab8898c/1477916006670/IMG_4005+2+copy.png">I'll tap you when I'm good and ready</a></p>
+<p><a href="http://amzn.to/2fmHinl">The Electric Toothbrush the Greys got for Brady</a></p>
+<p><a href="https://youtu.be/hWddOMoC3ZU">News watermark</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5817386744024385b4f3bbb9/1477916777007/url.jpg?format=1500w">An image hiding under watermarks</a></p>
+<p><a href="https://speakingchic.files.wordpress.com/2011/07/louisvuittonhandbag.jpg">Brady's secret handbag</a></p>
+<p><a href="http://pegasus-arms.com">Pegasus Arms</a> </p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/581739b6f5e2319b5473892f/1477917117856/Screen+Shot+2016-10-31+at+12.31.03.png?format=1500w">Contact page</a></p>
+<p><a href="https://twitter.com/cgpgrey/status/787285105282805763">Sponsored card ad format</a></p>
+<p><a href="https://support.google.com/youtube/answer/2467968?hl=en">All of YouTube's ad formats</a></p>
+<p><a href="https://www.youtube.com/watch?v=RrmcE3j0q-Y">Previous Hello Internet YouTube Red discussions</a></p>
+<p><a href="https://www.youtube.com/watch?v=MsplPPW7tFo">Scare PewDiePie Level 7</a></p>
+<p><a href="https://gaming.youtube.com">YouTube Gaming</a></p>
+<p><a href="https://www.youtube.com/user/HelloInternetPodcast">Hello Internet YouTube channel</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:23:15</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/58178a98f7e0ab86f3d43f84/1478040225119/1500w/Hello+Internet+slides.323.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI_72_Final.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI_72_Final.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #71: Trolley Problem</title>
 			<dc:creator>Hello Internet</dc:creator>
