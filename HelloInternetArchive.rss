@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Tue, 22 Nov 2016 00:51:08 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 30 Nov 2016 21:43:57 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,32 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #74: Black Mirror Season 3</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 30 Nov 2016 21:43:57 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/74</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:583f40cf37c58126d3cfb0c7</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: a twitter style guide, cryogenics, chess world championship, black tape on webcams, cybersecurity revisited, and Black Mirror Season 3.</p>
+<h2 id="brought-to-you-by">Brought to You By</h2>
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+<p><a href="http://fractureme.com/podcast">Fracture: Photos printed in vivid color directly on glass.</a></p>
+<p><a href="https://www.harrys.com/hellointernet">Harry's: Quality Men's Shaving Products. FREE SHIPPING + Promocode HI for $5 off your first purchase</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show Notes</h2>
+<p><a href="https://www.reddit.com/r/cgpgrey"><strong>Discuss this episode on the reddit</strong></a></p>
+<p><a href="https://en.wikipedia.org/wiki/File:Brady.gif">Brady Coat of Arms</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Chess960">Fischer Random Chess</a></p>
+<p><a href="https://en.wikipedia.org/wiki/RoboCup">RoboCup</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Investigatory_Powers_Act_2016">Investigatory Powers Act 2016</a></p>
+<p><a href="https://www.youtube.com/watch?v=7ncAUTrEGxM">Hello Internet Black Mirror Episode</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:49:59</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/583f40cf37c58126d3cfb0c7/1480542240196/1500w/Hello+Internet+slides.659.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI74_Do_People_Read_The_Filenames.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI74_Do_People_Read_The_Filenames.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #73: Unofficial Official</title>
 			<dc:creator>Hello Internet</dc:creator>
