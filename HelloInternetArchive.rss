@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Wed, 30 Nov 2016 21:43:57 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Mon, 19 Dec 2016 22:11:33 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,38 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>HI #75: "World’s Most Interesting Podcast"</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Mon, 19 Dec 2016 22:11:33 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/2016/12/19/hi-75-worlds-most-interesting-podcast</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:58585a99f5e231737104de7d</guid>
+			<description><![CDATA[<p>Brady &amp; Grey chat about: the world chess championship, Norwegian Bank notes, Brady does antiquing through twitter, behavior control and Santa, Brady’s level of fame, a bird comes back to grey, the new elements, ugly YouTube ads, and consumable synthetic muscle tissue. </p>
+<h2 id="brought-to-you-by">Brought to You By</h2>
+<p><a href="https://www.awaytravel.com/hi">Away: thoughtful travel luggage for modern travel.   Use code HI for $20 off</a></p>
+<p><a href="https://www.harrys.com/hellointernet">Harry's: Quality Men's Shaving Products.  Promocode HI for $5 off your first purchase</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+<p><a href="https://www.squarespace.com/?channel=podcast&amp;subchannel=themidroll&amp;source=hellointernet">Squarespace: Use code HI for 10% off your website</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show Notes</h2>
+<p><a href="https://www.reddit.com/r/cgpgrey"><strong>Discuss this episode on the reddit</strong></a></p>
+<p><a href="https://en.wikipedia.org/wiki/World_Chess_Championship_2016">World Chess Championship 2016</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Isner–Mahut_match_at_the_2010_Wimbledon_Championships">The Eternal Match</a></p>
+<p><a href="http://www.norges-bank.no/en/notes-and-coins/New-banknote-series/About-the-new-notes/">"World’s most beautiful banknotes"</a></p>
+<p><a href="https://twitter.com/BradyHaran/status/810103918638338048">“Hello Internet: “World’s Most Interesting Podcast” - 2016”</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/58583c4c15d5db915f126dc0/1482177653556/FullSizeRender.jpg?format=1500w">Miss Haran case</a></p>
+<p><a href="https://www.reddit.com/r/HelloInternet/comments/5j96mx/help_brady_find_a_woodwork_bench/">Help Brady find antiques</a></p>
+<p><a href="https://en.wikipedia.org/wiki/The_Elf_on_the_Shelf">The Elf on the Shelf - Wikipedia</a></p>
+<p><a href="http://www.bradyharanblog.com/blog/four-new-elements">Four new elements — Brady Haran</a></p>
+<p><a href="https://www.youtube.com/watch?v=rStL7niR7gs">The Rules for Rulers - YouTube</a></p>
+<p><a href="https://support.google.com/youtube/answer/2467968?hl=en-GB">YouTube advertising formats - YouTube Help</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Westworld">Westworld 1973</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/58585a99f5e231737104de7d/1482220690966/1500w/Hello+Internet+slides.660.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/H.I._Seventy_Five.mp3" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/H.I._Seventy_Five.mp3" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #74: Black Mirror Season 3</title>
 			<dc:creator>Hello Internet</dc:creator>
