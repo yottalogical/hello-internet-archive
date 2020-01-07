@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Mon, 19 Dec 2016 22:11:33 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Sun, 25 Dec 2016 09:48:26 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,24 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>HI: Rogue One Star Wars Christmas Special</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Sun, 25 Dec 2016 09:48:26 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/2016/12/25/hi-rogue-one-star-wars-christmas-special</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:585f95698419c2d595bb1c6e</guid>
+			<description><![CDATA[<p>Grey and Brady discuss Rogue One.  Merry Christmas, everyone.  </p>
+<h2 id="brought-to-you-by">Brought to You By</h2>
+<p><a href="http://www.patreon.com/hellointernet">Our supporters on Patreon</a></p>
+<h2 id="show-notes">Show Notes</h2>
+<p><a href="https://www.reddit.com/r/cgpgrey"><strong>Discuss this episode on the reddit</strong></a></p>
+<p><a href="https://en.wikipedia.org/wiki/Rogue_One">Rogue One: A Star Wars Story</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/585f95698419c2d595bb1c6e/1482659306928/1500w/Hello+Internet+slides.001.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/Rogue_One.mp3" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/Rogue_One.mp3" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>HI #75: "World’s Most Interesting Podcast"</title>
 			<dc:creator>Hello Internet</dc:creator>
