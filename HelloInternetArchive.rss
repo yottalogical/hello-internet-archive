@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Sun, 25 Dec 2016 09:48:26 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Tue, 31 Jan 2017 19:48:29 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,39 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #77: Woah, Dude</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Tue, 31 Jan 2017 19:48:29 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/77</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5890e3d25016e1497f6bd3ac</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: Hello Internet listening party surprise, plane crash corner, elf on the shelf revisited, Rogue One and The Force Awakens revisited, mailing habits of Americans, Mastermind, some sports stuff or whatever, Sum, and Brady runs a brain-bending Limerick contest.  </p>
+<h2 id="brought-to-you-by-">Brought to You By:</h2>
+<p><a href="https://www.hellofresh.com/?hellointernet">Hello Fresh: Delicious ingredients you'll love to eat.  Simple recipes you'll live to cook.</a></p>
+<p><a href="https://www.harrys.com/hellointernet">Harry's: Quality Men's Shaving Products.</a></p>
+<p><a href="https://www.squarespace.com/hello">Squarespace: start bulding your website today with a free fifteen day trial</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/588f67a0e3df287fa74580b9/1485793188216/Screen+Shot+2017-01-30+at+16.18.10.png?format=1500w">Grey wearing Apple AirPods (face spoiler)</a></p>
+<p><a href="http://www.abc.net.au/news/2017-01-23/mh370-ship-fugro-equator-to-dock-in-perth-for-possibly-last-time/8202576">MH370: Malaysian Government says no decision on reward, as search for missing plane ends</a></p>
+<p><a href="https://en.wikipedia.org/wiki/The_Elf_on_the_Shelf">Elf of the Shelf</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/588f69dac534a52f773cb583/1485793755679/scary-wtf-easterbunny.jpg?format=1500w">The Easter Bunny</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/588f69a037c5818a6a105213/1485793754433/?format=1500w">Searching for the Easter bunny</a></p>
+<p><a href="https://www.youtube.com/watch?v=7Bivh1XEbxs">HI: Rogue One Star Wars Christmas Special</a></p>
+<p><a href="https://www.youtube.com/watch?v=-XWTKvG-bo4">H.I. #54: Star Wars Christmas Special</a></p>
+<p><a href="http://tvtropes.org/pmwiki/discussion.php?id=7kbr7fqfmwkcn3yjq7i180z5">Soft reboot</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Mastermind_%28TV_series%29">Mastermind</a></p>
+<p><a href="http://amzn.to/2kjKbWA">Sum: Forty Tales from the Afterlives</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/588f778320099ed4521ac801/1485797295429/Screen+Shot+2017-01-30+at+17.27.10.png?format=1500w">Reading paper is terrible</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Limerick_(poetry">Limerick</a>)</p>
+<p><a href="http://www.bradyharanblog.com/limerick_list">Full list of Limericks</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:54:55</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5890e3d25016e1497f6bd3ac/1485892104381/1500w/Hello+Internet+slides.665.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI77_v1_hello.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI77_v1_hello.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>HI: Rogue One Star Wars Christmas Special</title>
 			<dc:creator>Hello Internet</dc:creator>
