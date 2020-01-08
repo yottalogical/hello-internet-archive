@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Tue, 31 Jan 2017 19:48:29 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Thu, 16 Feb 2017 21:58:07 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,38 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>HI LXXVIII</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Thu, 16 Feb 2017 21:58:07 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/78</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:58a606cc579fb3badfe8e6b9</guid>
+			<description><![CDATA[<p>Grey &amp; Brady discuss: Easter bunny follow-up, meat security, gifbooting revisited, the cuteness of Audrey, Star Wars land, death, the SuperBowl, 'Big Brands Fund Terrorism via YouTube' according to newspaper, the incentives of YouTube, and Tattoos.  </p>
+<h2 id="brought-to-you-by-">Brought to You By:</h2>
+<p><a href="https://www.harrys.com/hellointernet">Harry's: Quality Men's Shaving Products.</a></p>
+<p><a href="https://www.squarespace.com/hello">Squarespace: start bulding your website today with a free fifteen day trial</a></p>
+<p><a href="https://www.backblaze.com/hellointernet.html">Backblaze: Online backup for $5/month</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><a href="https://www.youtube.com/watch?v=s84dBopsIe4">Audrey bursts bubbles in slow motion</a></p>
+<p><a href="http://www.bbc.co.uk/news/entertainment-arts-38487837">UK vinyl sales reach 25-year high</a></p>
+<p><a href="http://www.nme.com/news/film/star-wars-land-theme-park-opening-date-revealed-1970281#qRUDML1C55ueJFIE.99">Star Wars Land theme parks opening date revealed</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Carny">Carny</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Hans_Rosling">Hans Rosling</a></p>
+<p><a href="https://www.youtube.com/watch?v=fTznEIZRkLg">Hans Rosling talk on population growth</a></p>
+<p><a href="https://www.youtube.com/watch?v=OugcrG8y_Ig">Brady's reagent</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Super_Bowl">Super Bowl</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Liverpool_F.C.">Liverpool</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Tom_Brady">Tom Brady</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/58a5a66737c58180fd30ab9a/1487251063609/IMG_1052.jpg?format=1500w">YouTube in The Times</a>        <a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/58a5a697f7e0ab543ec36f68/1487251108886/24F8909E-5CDC-40D0-A28D-B1709C5E7F45.JPG?format=1500w">Page 2</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/58a5a6b05016e189affa9847/1487251125228/tatoo.jpg?format=1500w">HI tattoo</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:31:02</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/58a606cc579fb3badfe8e6b9/1487282291049/1500w/Hello+Internet+slides.001.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI_LXXVIII.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI_LXXVIII.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #77: Woah, Dude</title>
 			<dc:creator>Hello Internet</dc:creator>
