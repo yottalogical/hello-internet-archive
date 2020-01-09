@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 16 Feb 2017 21:58:07 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Thu, 16 Mar 2017 20:25:39 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,42 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #79: From Russia with Love</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Thu, 16 Mar 2017 20:25:39 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/79</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:58cae765725e25dbfb0bbff1</guid>
+			<description><![CDATA[<p>Grey and Brady catch up with each other after a while to discuss: the reality of freebooting, the best living mathematician, Russian shaggy dogs, FOT5k, 100 to 1, the HI limited edition sneakers, important breaking flag news, and plane crash corner.  </p>
+<p>Homework: <a href="http://amzn.to/2m1b43I">Westworld</a> &amp; <a href="http://amzn.to/2m1awuS">Sully</a></p>
+<h2 id="brought-to-you-by-">Brought to You By:</h2>
+<p><a href="https://www.harrys.com/hellointernet">Harry's: Quality Men's Shaving Products</a></p>
+<p><a href="https://www.squarespace.com/hello">Squarespace: start bulding your website today with a free fifteen day trial</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><a href="https://www.youtube.com/watch?v=-j-tCHzjam4&amp;list=PLe_b-HAZD1pXZl1UzE7Q9IiYMXKxSG7Lg&amp;index=5">The original freebooting discussion on Hello Internet</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Copyright_infringement">Copyright infringement on wikipedia</a>  (<a href="https://en.wikipedia.org/w/index.php?title=Copyright_infringement&amp;type=revision&amp;diff=769364948&amp;oldid=768695470">Previous version</a>)</p>
+<p><a href="http://vidconeurope.com/people/3482/brady-haran/">Brady at VidCon Europe</a></p>
+<p><a href="https://en.wikipedia.org/w/index.php?title=Jeff_Dujon&amp;oldid=766736856">Wikipedia page for Jeff Dujon</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Terence_Tao">Terry Tao</a></p>
+<p><a href="https://www.youtube.com/watch?v=Nkz5ZAL3jSc&amp;feature=youtu.be">Periodic Videos: Elements Inauguration</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Grenfell_Centre">The Mighty Black Stump</a></p>
+<p><a href="https://polymathprojects.org">Polymath project</a></p>
+<p><a href="https://www.youtube.com/watch?v=sg0t-qdYuNk&amp;feature=youtu.be">Temptation away from home</a></p>
+<p><a href="https://brady-vs-grey.herokuapp.com/">Brady vs Grey</a></p>
+<p><a href="http://www.bradyharanblog.com/sneakers/limitededition">HI limited edition sneakers</a></p>
+<p><a href="http://www.omaha.com/news/legislature/nebraska-flag-flew-upside-down-at-capitol-for-days-and/article_1d3e0bf2-e6ff-11e6-a11e-6b5a251ccef1.html">Nebraska flag flew upside down at Capitol for 10 days and 'nobody noticed,' says senator who wants design change</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Aeroflot">Aeroflot</a></p>
+<p><a href="http://farm3.staticflickr.com/2887/9476425479_8515b9f464_z.jpg">Aeroflot uniform</a></p>
+<p><a href="http://people.com/movies/harrison-ford-near-plane-crash-video-footage-released-watch/">Harrison Ford near miss</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:38:10</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/58cae765725e25dbfb0bbff1/1489695939072/1500w/Hello+Internet+slides.669.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI79_FromRussiaWithLove.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI79_FromRussiaWithLove.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>HI LXXVIII</title>
 			<dc:creator>Hello Internet</dc:creator>
