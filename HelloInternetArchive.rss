@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Tue, 28 Mar 2017 22:20:22 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Thu, 27 Apr 2017 18:42:45 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,40 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I #81: Adpocalypse</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Thu, 27 Apr 2017 18:42:45 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/81</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:59023a7f29687f7b2c4dec03</guid>
+			<description><![CDATA[<p>Grey + Brady discuss: CGP Grey (the penguin) update, Kindle text, listener emails, St April Fools' Day, /r/place, following the rules in sports, the YouTube ad adpocalypse and the news, and West World. </p>
+<h2 id="brought-to-you-by">Brought to You By</h2>
+<p><a href="https://www.harrys.com/hellointernet">Harry's: Quality Men's Shaving Products</a></p>
+<p><a href="https://www.squarespace.com/hello">Squarespace: start bulding your website today with a free fifteen day trial</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><a href="https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Adelaide">Tallest Buildings in Adelaide</a></p>
+<p><a href="https://twitter.com/Pirateboy04/status/853809560544575488">Missing At-Ats?</a></p>
+<p><a href="http://www.itv.com/news/westcountry/2017-04-12/bristol-penguins-donated-to-zoo-in-georgia-devastated-by-flooding/">Bristol penguins donated to zoo in Georgia devastated by flooding</a></p>
+<p><a href="https://youtu.be/m520SIYSbSQ?t=1249">Hello Internet complaining about Kindles</a></p>
+<p><a href="https://sixcolors.com/link/2017/04/amazons-kindle-gets-unjustified-at-last/">Kindle gets ragged-right text at last</a></p>
+<p><strong><a href="http://amzn.to/2osDFQL">Kindle Oasis with Ragged-Right Text, now Grey Approved!</a></strong></p>
+<p>San Joaquin antelope squirrel photos [SFW!]: <a href="http://i.imgur.com/JaJWGEz.jpg">1</a> <a href="http://i.imgur.com/RTflzsF.jpg">2</a> <a href="http://i.imgur.com/G8wmZ41.jpg">3</a> <a href="http://i.imgur.com/pj086GA.jpg">4</a></p>
+<p><a href="https://www.reddit.com/r/place/">r/place</a></p>
+<p><a href="https://i.redd.it/66vokhp5fdpy.png">Hello Internet on r/place</a></p>
+<p><a href="https://subscription.economist.com/DE/EngCore/Ecom/Masthead">Subscribe to The Economist</a></p>
+<p><a href="https://www.youtube.com/watch?v=KW0eUrUiyxo">How Ads Work on YouTube</a></p>
+<p><a href="http://i.imgur.com/ohK5q46.png">Advertiser exclusions</a></p>
+<p><a href="https://twitter.com/cgpgrey/status/850062222730678272">Brilliant solution</a></p>
+<p><a href="http://amzn.to/2pqpHhD">Westworld</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>02:32:13</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/59023a7f29687f7b2c4dec03/1493320084761/1500w/HI.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI81.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI81.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I #80: Operation Twinkle Toes</title>
 			<dc:creator>Hello Internet</dc:creator>
