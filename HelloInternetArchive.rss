@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 27 Apr 2017 18:42:45 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Sat, 13 May 2017 15:44:24 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,37 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #82: God of Bees</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Sat, 13 May 2017 15:44:24 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/82</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:591721c359cc68625b319866</guid>
+			<description><![CDATA[<p>Brady and Grey discuss: CGP Grey (the penguin) update again, the height of the mighty black stump, Bees, Dying on Everest, Brady finds an argument for the Apple Watch, Brady travels, world records, the UK snap election and the French election.  </p>
+<h2 id="brought-to-you-by-">Brought to You By:</h2>
+<p><a href="https://www.squarespace.com/hello">Squarespace: start building your website today with a free fifteen day trial</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+<p><a href="https://www.awaytravel.com/hi">Away: get $20 off a suitcase at awaytravel.com/hi</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><a href="https://www.youtube.com/watch?v=ugKzekXFlnw">CGP Grey the Penguin</a></p>
+<p><a href="http://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5624d013e4b083b724bc0863/1445253141010/?format=1500w">CGP Grey the Penguin Weigh-In</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Star_Wars_Day">Star Wars Day</a></p>
+<p><a href="https://twitter.com/cgpgrey/status/861554436057034752">Nail &amp; Gear Bees</a></p>
+<p><a href="https://youtu.be/OmGcRIIIxK8">Ueli Steck - Cara Norte del Eiger en Velocidad</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Escape_to_the_Country">Escape to the Country</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/591712b459cc68625b310461/1494684353152/IMG_2895.jpg?format=1500w">Brady signing area</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/591712eaa5790ae3f6760bf3/1494684402232/IMG_3350.jpg?format=1500w">Banner ads in the sky</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/591712fd59cc68625b31087e/1494684420267/IMG_3104.jpg?format=1500w">Miami beach ads</a></p>
+<p><a href="https://en.wikipedia.org/wiki/United_Kingdom_general_election,_2017">UK snap election</a></p>
+<p><a href="https://en.wikipedia.org/wiki/French_presidential_election,_2017">French election</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>02:00:19</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/591721c359cc68625b319866/1494873979848/1500w/Hello+Internet+slides.002.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/82.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/82.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I #81: Adpocalypse</title>
 			<dc:creator>Hello Internet</dc:creator>
