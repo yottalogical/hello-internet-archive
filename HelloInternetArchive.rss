@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Sat, 13 May 2017 15:44:24 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Fri, 26 May 2017 20:43:49 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,34 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #83: The Best Kind of Prison</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Fri, 26 May 2017 20:43:49 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/83</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:592889a1b8a79b4606175638</guid>
+			<description><![CDATA[<p>On this episode: The Buzz, with CGP Grey, Mother's Day, paperlove, falling out of love with Uber, Trafalgar square safety, implied copyright permission, and do we live in a simulation?</p>
+<h2 id="sponsors">Sponsors</h2>
+<p><a href="https://www.harrys.com/hellointernet">Harry's: Quality Men's Shaving Products</a></p>
+<p><a href="https://www.squarespace.com/hello">Squarespace: start building your website today with a free fifteen day trial</a></p>
+<p><a href="http://backblaze.com/hellointernet">Backblaze: Online backup for $5/month - 15 day free trial</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show Notes</h2>
+<p><a href="https://www.youtube.com/watch?v=w79-iEUhI1I&amp;list=PLKhDkilF5o6_pFucn5JHd6xy7muHLK6pS">Cody's Lab Year of Beekeeping</a></p>
+<p><a href="http://nypost.com/2017/05/17/huge-swarm-of-bees-stops-london-traffic-during-rush-hour/">London Bee swarm</a></p>
+<p><a href="https://www.youtube.com/watch?v=Yr0AOan0N1w&amp;feature=youtu.be">No fun in Trafalgar Square</a></p>
+<p><a href="https://www.youtube.com/watch?v=YOxDb_BbXzU&amp;feature=youtu.be">What if the Universe is a Computer Simulation? - Computerphile</a></p>
+<p><a href="http://www.mcafee.cc/Bin/Simulation.html">Simulation paper</a></p>
+<p><a href="https://www.youtube.com/watch?feature=m-ch-vid&amp;v=NMgcX8UNIGY">Minute Physics: Real World Telekinesis</a></p>
+<p><a href="https://www.youtube.com/watch?v=6Ny338t8pts">HI: Guns, Germs, and Steel</a></p>
+<p><a href="https://www.youtube.com/watch?v=jmOBm-Lcs70">HI: Artificial Intelligence</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:46:31</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/592889a1b8a79b4606175638/1495831426239/1500w/Hello+Internet+slides.678.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/83.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/83.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #82: God of Bees</title>
 			<dc:creator>Hello Internet</dc:creator>
