@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 29 Jun 2017 21:22:55 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Tue, 25 Jul 2017 21:06:06 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,45 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #85: Another Person I've Never Heard Of</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Tue, 25 Jul 2017 21:06:06 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/85</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5977aacf2994caf479044635</guid>
+			<description><![CDATA[<p>Brady and Grey discuss: more 51-star flags, Uber tipping, Disney Fast Pass, drama in Greece, Voting Drama, counting in the Gym, and Sportsball Corner.</p>
+<h2 id="sponsors">Sponsors</h2>
+<p><a href="https://www.squarespace.com/hello">Squarespace: start building your website today with a free fourteen day trial and 10% off first purchase</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+<p><a href="https://www.harrys.com/hellointernet">Harry's: Quality Men's Shaving Products - use offer code HI for $5 off</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show notes</h2>
+<p><a href="https://www.reddit.com/r/HelloInternet/comments/6o0ias/51st_state_flag_redesign_roundup/">51-Star Flag Designs reddit discussion</a></p>
+<ul>
+<li><a href="https://i.imgur.com/sa4KoBU.png">Star of stars</a></li>
+<li><a href="https://i.imgur.com/nkP1oYa.jpg">Diagonal stars</a></li>
+<li><a href="http://i.imgur.com/hU5zs0o.png">Star bar</a></li>
+<li><a href="http://i.imgur.com/AUQeAw4.jpg">51 stripes</a></li>
+<li><a href="http://i.imgur.com/fGPV4Qe.png">LI stars</a></li>
+<li><a href="http://i.imgur.com/9z21CF9.png">51 of 51</a></li>
+<li><a href="http://i.imgur.com/mNa4kFR.png">We're #1</a></li>
+</ul>
+<p><a href="https://en.wikipedia.org/wiki/Ocker">Ocker</a></p>
+<p><a href="https://www.uber.com/en-CA/ride/how-it-works/tips/">Uber Tipping</a></p>
+<p><a href="https://www.instagram.com/p/BVnIqIhHMro/">Destin and Brady on a Disney Ride</a> </p>
+<p><a href="https://static1.squarespace.com/static/548b5b70e4b0b57ba182907d/t/59771cadc534a5197e8fa3bb/1500978351862/fish.jpg">Risking a Phone for a Fishie</a></p>
+<p><a href="https://static1.squarespace.com/static/548b5b70e4b0b57ba182907d/t/59771fc71e5b6c546cf408fd/1500979144315/volcano.jpg">Hard as Nails in volcano water</a></p>
+<p><a href="http://www.radiotimes.com/news/2017-07-24/radio-times-radio-and-podcast-champion-final">Tims vs Steves</a></p>
+<p><a href="http://www.bbc.com/sport/golf/40554982">Lawless golf</a> </p>
+<p><a href="http://www.bbc.com/sport/football/40607213">PieGate</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Meat_pie">Meat Pie</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:56:54</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5977aacf2994caf479044635/1501016764879/1500w/0085+-+Slide+B.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI85.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI85.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #84: Sloppy Buns</title>
 			<dc:creator>Hello Internet</dc:creator>
