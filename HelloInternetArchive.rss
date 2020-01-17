@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 24 Aug 2017 15:40:17 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Thu, 31 Aug 2017 12:58:46 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,46 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #87: Podcast of the Century</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Thu, 31 Aug 2017 12:58:46 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/87</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:59a7fbdbe5dd5bfcd2d0651f</guid>
+			<description><![CDATA[<p>Grey &amp; Brady discuss: Operation Tetra and space launches, the 2017 eclipse, <a href="https://www.unmade.fm/">Brady's new podcast</a>, the H3H3 copyright/defamation lawsuit, and YouTube auto-advertiser friendliness.  </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+<p><a href="http://www.hover.com/hi">Hover: The best way to buy and manage domain names - get 10% off your first purchase at www.hover.com/hi</a></p>
+<p><a href="https://www.fractureme.com/podcast/">Fracture: Photos printed in vivid color directly on glass - get 10% off your first order at www.fractureme.com/podcast and mention Hello Internet</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><a href="https://www.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/59a56c2ebebafbcf1a1d4b92/1504013364277/launch.jpg?format=1500w">Launch photograph</a></p>
+<p><a href="http://www.ustream.tv/recorded/106844554">Launch video</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/59a56c66c027d8bb2117131d/1504013420619/miniflag.png?format=500w">A photo for ants</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/59a56c7ce3df28f38e259795/1504013487237/IMG_4818.jpg?format=1500w">A better photo</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/59a56d349f8dce0473476d09/1504013626344/shieldingboard.jpg?format=1500w">Space race shielding</a></p>
+<p><a href="https://www.instagram.com/p/BYIPmEFAIIn/?hl=en&amp;taken-by=elonmusk">Space X's suits</a></p>
+<p><a href="https://www.youtube.com/watch?v=qUAAHTtOYmI&amp;feature=youtu.be&amp;t=5094">HI betting market: Eclipse edition</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017">2017 Solar Eclipse</a></p>
+<p><a href="https://en.wikipedia.org/wiki/List_of_future_astronomical_events">List of future astronomical events</a></p>
+<p><a href="https://en.wikipedia.org/wiki/The_Twilight_Saga:_Eclipse">The Twilight Saga: Eclipse</a></p>
+<p><a href="https://www.youtube.com/watch?v=lepQoU4oek4">Destin's &amp; the ISS during the eclipse</a></p>
+<p><a href="https://www.unmade.fm/">The Unmade Podcast</a></p>
+<p><a href="https://www.youtube.com/watch?v=9eN0CIyF2ok">H3H3: WE WON THE LAWSUIT!</a></p>
+<p><a href="https://www.youtube.com/watch?v=Dj4XAYhF0ok">Original Video: Bold Guy vs Parkour Girl</a></p>
+<p><a href="https://www.youtube.com/watch?v=CXUs5FOo-JE">H3H3's react video</a></p>
+<p><a href="https://www.youtube.com/user/RedLetterMedia">RedLetterMedia</a></p>
+<p><a href="https://youtu.be/Wic2Ychvpdg?t=260">YouTube massage room</a></p>
+<p><a href="https://twitter.com/bradyharan/status/901044151806021632">Brady's inappropriate video</a></p>
+<p><a href="https://www.youtube.com/watch?v=I4kNPbARIM4">Also inappropriate: HI 86 Banana Republic</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:50:37</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/59a7fbdbe5dd5bfcd2d0651f/1504190785207/1500w/Slide+87.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI87.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI87.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #86: Banana Republic</title>
 			<dc:creator>Hello Internet</dc:creator>
