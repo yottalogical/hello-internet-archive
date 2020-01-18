@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 31 Aug 2017 12:58:46 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Tue, 19 Sep 2017 18:49:16 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,37 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #88: Do Not Ring Bell</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Tue, 19 Sep 2017 18:49:16 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/88</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:59c15b5c2278e7bd79dc7745</guid>
+			<description><![CDATA[<p>Grey &amp; Brady discuss: space flags for the people, YouTube fair use (or not) continued, Space X feedback, listener images, changes in spoiler culture, and the rules of portrait photography.  </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="http://backblaze.com/hellointernet">Backblaze: Online backup for $5/month - 15 day free trial</a></p>
+<p><a href="https://www.squarespace.com/hello">Squarespace: start building your website today with a free fourteen day trial and 10% off first purchase</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><a href="https://www.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></p>
+<p><a href="http://www.bradyharanblog.com/flags/miniflag">Hand-made Hello Internet flags by Kate</a></p>
+<p><a href="https://www.youtube.com/watch?v=I4kNPbARIM4">H.I. 86: Banana Republic</a></p>
+<p><a href="https://www.youtube.com/watch?v=Dj4XAYhF0ok">Bold Guy vs Parkour Girl</a></p>
+<p><a href="https://www.youtube.com/watch?v=CXUs5FOo-JE">H3H3 reacts to Bold Guy vs Parkour Girl</a></p>
+<p><a href="https://www.youtube.com/watch?v=WA1h9h7-_Z4">Victoria Bitter 1988</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/59bfcbe49f74564ebbf2219d/1505741802342/Screen+Shot+2017-07-21+at+13.27.53.png?format=1500w">Hello Internet at Congress</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/59bfcc1ef43b5503bd1539d8/1505741867021/Random+Acts+Base+Camp.jpg?format=1500w">Random Acts at Basecamp</a></p>
+<p><a href="https://twitter.com/rwrigley/status/890333347511250944">HI Flag at Trafalgar Square</a></p>
+<p><a href="https://twitter.com/_ReminiscentFM/status/886918416682151940">HI Proposal</a></p>
+<p><a href="http://www.npg.org.uk/whatson/twppp-2017/exhibition/shortlisted-artist/">Taylor Wessing Photographic Portrait Prize</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:18:17</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/59c15b5c2278e7bd79dc7745/1505846954944/1500w/Hello+Internet+slides.188.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI88.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI88.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #87: Podcast of the Century</title>
 			<dc:creator>Hello Internet</dc:creator>
