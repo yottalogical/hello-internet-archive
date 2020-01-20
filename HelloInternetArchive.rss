@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 28 Sep 2017 11:47:05 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Thu, 19 Oct 2017 13:30:16 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,47 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #90: Pumpkin Pressure</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Thu, 19 Oct 2017 13:30:16 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/90</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:59e7fd07d7bdce4230d501ea</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: emoji revisited and the plurals of words, spoilers revisited, the 280 character upper class, Twitter Halloween, SpaceX Adelaide action, the drama over Brady's lego set resolved... or maybe not, Brady in Las Vegas during the shooting and advertising during tragedy, the (fiction of) the 2017 Nobel prize in physics.  </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="https://www.harrys.com/hi">Harry's: Quality Men's Shaving Products - go to www.harrys.com/HI for a free trial set</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: get a free 30-day trial by signing up at audible.com/hellointernet</a></p>
+<p><a href="https://www.squarespace.com/hello">Squarespace: start building your website today with a free fourteen day trial and 10% off first purchase</a></p>
+<p><a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://emojipedia.org/frog-face/">Frog emoji</a></p>
+<p><a href="https://emojipedia.org/google/android-7.1/">Android 7.1 Emoji</a></p>
+<p><a href="https://emojipedia.org/google/android-8.0/">Android 8.0 Emoji</a></p>
+<p><a href="https://emojipedia.org/turtle/">Turtle emoji</a></p>
+<p><a href="https://emojipedia.org/google/android-4.3/">Old timey emoji</a></p>
+<p><a href="https://emojipedia.org/crocodile/">Alligator emoji</a></p>
+<p><a href="https://www.theguardian.com/environment/2017/sep/22/crocodile-over-five-metres-long-found-shot-dead-in-queensland">Death of Queensland's largest crocodile in 30 years could spark violent power grab</a></p>
+<p><a href="https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html">Twitter blog: Giving you more characters to express yourself</a></p>
+<p><a href="http://www.cimmagazine.com/elon-musk-fever-sweeps-adelaide/">Elon Musk fever sweeps Adelaide</a></p>
+<p><a href="https://goo.gl/gHnCCr">BFR Rocket</a></p>
+<p><a href="https://goo.gl/G5cHqP">The real BFG</a></p>
+<p><a href="https://www.youtube.com/watch?v=zqE-ultsWt0">SpaceX: BFR | Earth to Earth</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Boeing_747">747</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Airbus_A380">A380</a></p>
+<p><a href="https://www.youtube.com/watch?v=BvZgAEiQXgk">Leggo my eggo</a></p>
+<p><a href="https://en.wikipedia.org/wiki/2017_Las_Vegas_shooting">2017 Las Vegas Shooting</a></p>
+<p><a href="https://www.youtube.com/watch?v=tfZvSS_f254">Casey Neistat: LET'S HELP THE VICTIMS OF THE LAS VEGAS ATTACK</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Zapruder_film">Zapruder film</a></p>
+<p><a href="https://www.nobelprize.org/nobel_prizes/physics/laureates/2017/">The Nobel Prize in Physics 2017</a></p>
+<p><a href="https://overcast.fm/itunes811377230/hello-internet">Hello Internet on Overcast</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:56:20</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/59e7fd07d7bdce4230d501ea/1508419814250/1500w/Hello+Internet+slides.192.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI90PumpkinPressure.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI90PumpkinPressure.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #89 -- A Swarm of Bad Emoji</title>
 			<dc:creator>Hello Internet</dc:creator>
