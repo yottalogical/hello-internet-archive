@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 19 Oct 2017 13:30:16 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Tue, 31 Oct 2017 22:05:11 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,35 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #91: Last Man to Die?</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Tue, 31 Oct 2017 22:05:11 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/91</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:59f8f3572774d1b8507f6e72</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: singing, the psychology of self-checkout machines, laygo, animal emoji changes at Apple, yet more ways to be freebooted, 'nudity' on YouTube, school photos, plane crash corner, and death and immortality. </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="https://www.videoblocks.com/hellointernet">Videoblocks: Get all the stock images, video, and audio you can imagine for $149. Download anything from thousands of images, videos, and tracks—and unlock discounts on millions more.</a></p>
+<p><a href="http://backblaze.com/hellointernet">Backblaze: Online backup for $5/month - 15 day free trial</a></p>
+<p><a href="https://www.squarespace.com/hello">Squarespace: start building your website today with a free fourteen day trial and 10% off first purchase</a></p>
+<p><a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/59f899ae6926706020fe9c30/1509464502534/ios111emojiupdates-1.jpg?format=1500w">Apple animal emoji changes</a></p>
+<p><a href="https://www.youtube.com/watch?v=_dKoKyrgrSE">H.I #80: Operation Twinkle Toes</a></p>
+<p><a href="https://www.youtube.com/watch?v=Iq_Oj6qzeIU">Brady: Animal Locomotion - Objectivity #137</a></p>
+<p><a href="https://twitter.com/BradyHaran/status/922569819496607744">Brady makes art sexually suggestive</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/59f89a0824a69446e9117b12/1509464905600/engine.png?format=1500w">Grey's view while editing plane crash corner. Thanks, Brady.</a></p>
+<p><a href="https://www.youtube.com/watch?v=C25qzDhGLx8">Grey: Why Die?</a></p>
+<p><a href="https://twitter.com/BradyHaran/status/921783730498359299">Live fast, but die old</a></p>
+<p><a href="https://www.youtube.com/watch?v=GoJsr4IwCm4">Kurzgesagt: Why Age? Should We End Aging Forever?</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>02:00:22</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/59f8f3572774d1b8507f6e72/1511553860837/1500w/Hello+Internet+slides.196.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI_91.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI_91.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #90: Pumpkin Pressure</title>
 			<dc:creator>Hello Internet</dc:creator>
