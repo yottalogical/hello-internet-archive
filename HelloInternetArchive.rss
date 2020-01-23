@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Fri, 24 Nov 2017 22:20:12 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Thu, 30 Nov 2017 20:33:49 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,45 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #93: Mr. Chompers</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Thu, 30 Nov 2017 20:33:49 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/hi-93-mr-chompers</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5a2068339140b77b5486a4c1</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: cute puppy photos, HI hotstopper distribution, inspiring kids with the right stuff, Periodic Videos approaches one million subscribers, the state of our YouTube channels, the delivery cartel, adpocalypse eternal, and the crossing of corners.  </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="https://www.squarespace.com/hello">Squarespace: start building your website today with a free fourteen day trial and 10% off first purchase</a></p>
+<p><a href="https://fractureme.com/podcast">Fracture: print your memories directly on glass</a></p>
+<p><a href="https://eero.com/">Eero: Happy Wifi, Happy life.  Use code hellointernet for free overnight shipping in the US and Canada</a></p>
+<p><a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://en.wikipedia.org/wiki/Cesar_Millan">Cesar Milano</a> </p>
+<p><a href="https://www.patreon.com/posts/your-address-and-15523987">HI Patreon address form</a></p>
+<p><a href="http://www.decisionproblem.com/paperclips/">Universal Paperclips -- WE TOLD YOU SO</a></p>
+<p><a href="https://twitter.com/flantz/status/934266658692231168">Frank Lantz</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Cow_Clicker">Cow clicker</a></p>
+<p><a href="https://www.youtube.com/user/periodicvideos">Periodic Videos -- Subscribe before Dec 16th </a></p>
+<p><a href="https://en.wikipedia.org/wiki/Martyn_Poliakoff">Martyn Poliakoff</a></p>
+<p><a href="https://www.youtube.com/watch?v=f-mHLBD64HM">72 Hours in Las Vegas</a></p>
+<p><a href="https://twitter.com/i/moments/936276325412823042">Grey vs. parcel delivery on twitter</a></p>
+<p><a href="http://www.dailymail.co.uk/home/index.html">The Daily Mail</a></p>
+<p><a href="https://stopfundinghate.org.uk/">Stop Funding Hate</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5a205040ec212d686c8ce8db/1512067137015/Unknown-1.jpg?format=750w">Sports champagne celebrations</a></p>
+<p><a href="https://twitter.com/greyhealthbot">Grey Health Bot</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:51:32</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5a2068339140b77b5486a4c1/1512224500087/1500w/Hello+Internet+slides.199.png" />
+			<itunes:episode>93</itunes:episode>
+			<itunes:title>H.I. #93: Mr. Chompers</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI_93_Export_4_Post-Processing_this_one.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI_93_Export_4_Post-Processing_this_one.mp3" type="audio/mpeg" isDefault="true" medium="audio">
+				<media:title type="plain">H.I. #93: Mr. Chompers</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>H.I. #92: Grey Honeypot</title>
 			<dc:creator>Hello Internet</dc:creator>
