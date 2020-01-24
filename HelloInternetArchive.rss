@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 30 Nov 2017 20:33:49 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Fri, 22 Dec 2017 17:02:44 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,48 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #94: Video of Meaninglessness</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Fri, 22 Dec 2017 17:02:44 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/94</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5a3d0c0124a694df868086dd</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: Mr Chomper's parallel universe, Hello Internet medals of honor and the Tims in general, Brady in Australia and everything you might imagine that involves, childrearing in our connected world, all the things one could know about Santa Claus, hot towels on planes, and YouTube Rewind. </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="http://backblaze.com/hellointernetbiz">Backblaze: Online backup for your business - 15 day free trial</a></p>
+<p><a href="https://www.videoblocks.com/hellointernet">Videoblocks: Get all the stock images, video, and audio you can imagine for $149</a></p>
+<p><a href="https://www.squarespace.com/hello">Squarespace: start building your website today with a free fourteen day trial and 10% off first purchase</a></p>
+<p><a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://www.instagram.com/adorable_audrey/">Adorable Audrey on Instagram</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Blondi">Blondi</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5a3a3499085229908fcb9157/1513764010639/IMG_0049.jpg?format=1500w">HI Medal of Honor</a></p>
+<p><a href="http://www.bbc.co.uk/news/uk-england-derbyshire-42180763">Derby cordoned-off Christmas tree</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Pierson%27s_Puppeteers">Pierson's Puppeteers</a></p>
+<p><a href="https://twitter.com/periodicvideos/status/940987375018283010">Sir Martyn thanks the Tims</a></p>
+<p><a href="https://store.dftba.com/products/nail-and-gear-hoodie">HI Hoodie</a></p>
+<p><a href="https://twitter.com/dan_p/status/937251411485638656">HI Hoodies</a> at <a href="https://twitter.com/drmichaelnovy/status/936862202861989889">The Oval</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Test_cricket">Test cricket</a></p>
+<p><a href="https://www.youtube.com/watch?v=A8Tiba3h9Fw">Don Bradman's Duck</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Adelaide_Oval">Adelaide Oval</a></p>
+<p><a href="https://www.instagram.com/p/BcG3aj5h41A/">Brady meets Tims at the Mighty Black Stump</a></p>
+<p><a href="https://twitter.com/bradyharan/status/936048480845484032">Black Stump hotstoppers</a></p>
+<p><a href="https://www.instagram.com/p/BcckzskB7Yj/">Mighty Black Stump vs Telstra House</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Santa_Claus">Santa Clause</a></p>
+<p><a href="http://amzn.to/2Dc3bxk">Does Santa Exist?: A Philosophical Investigation</a></p>
+<p><a href="https://www.youtube.com/watch?v=FlsCjmMhFmw">YouTube Rewind 2017</a></p>
+<p><a href="https://www.youtube.com/watch?v=jNsWYq7Bo9E">Emma Blackery: YouTube Rewind The Truth</a></p>
+<p><a href="https://www.youtube.com/watch?v=0r3cEKZiLmg">Mile of Pi</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+			<itunes:title>H.I. 94: Video of Meaninglessness</itunes:title>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI94.mp3" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI94.mp3" isDefault="true" medium="audio">
+				<media:title type="plain">H.I. 94: Video of Meaninglessness</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>H.I. #93: Mr. Chompers</title>
 			<dc:creator>Hello Internet</dc:creator>
