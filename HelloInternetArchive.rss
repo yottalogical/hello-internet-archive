@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Fri, 22 Dec 2017 17:02:44 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Mon, 25 Dec 2017 08:07:38 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,23 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. Star Wars The Last Jedi Christmas Special</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Mon, 25 Dec 2017 08:07:38 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/2017/12/24/hi-star-wars-the-last-jedi-christmas-special</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5a3fd126ec212d376f3460de</guid>
+			<description><![CDATA[<p>Grey and Brady discuss The Last Jedi<a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5a3f979f9140b75e19754bae/1514117049565/I+saved+you%2C+dummy.gif">.</a>  (With minor spoilers for The Wizard of Oz)</p>
+<p>This episode is brought to you entirely by <a href="https://www.patreon.com/hellointernet">listeners like you on Patreon</a>.  Merry Christmas!</p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5a3fd126ec212d376f3460de/1514189523437/1500w/Hello+Internet+slides.004.png" />
+			<itunes:title>Star Wars: The Last Jedi (Hello Internet Christmas Special)</itunes:title>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/Star_Wars_The_Last_Jedia_A_Hello_Internet_Star_Wars_Christmas_Holiday_Special.mp3" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/Star_Wars_The_Last_Jedia_A_Hello_Internet_Star_Wars_Christmas_Holiday_Special.mp3" isDefault="true" medium="audio">
+				<media:title type="plain">Star Wars: The Last Jedi (Hello Internet Christmas Special)</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>H.I. #94: Video of Meaninglessness</title>
 			<dc:creator>Hello Internet</dc:creator>
