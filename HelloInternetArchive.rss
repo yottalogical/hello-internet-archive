@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Wed, 28 Feb 2018 18:00:04 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Thu, 22 Mar 2018 21:18:53 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,49 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #99: The Necessary Lies of Civilization</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Thu, 22 Mar 2018 21:18:53 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/99</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5ab3dc388a922db79830067d</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: Brady feels Audrey is getting sidelined, maybe a crack opens for the dark arts, Brady buys a new phone, destroying the value of stocks with your opinions, vacationing in Antarctica, politicians blocking people on Twitter, social media impersonations and anti-verification, the safest year of flying?, and the death of Stephen Hawking. </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="http://www.hover.com/hi">Hover: The best way to buy and manage domain names - get 10% off your first order</a></p>
+<p><a href="https://fracture.me">Fracture: Photos printed in vivid color directly on glass - get 15% off your first order with offer code HELLO15</a>  Plus: <a href="http://www.hellointernet.fm/bradys-photos-for-fracture">Brady's Photos for Fracture!</a></p>
+<p><a href="https://www.squarespace.com">Squarespace: start building your website today with a free fourteen day trial and 10% off first purchase using offer code HELLO</a></p>
+<p><a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://twitter.com/marcoarment">Friend of the show, Marco Arment</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5ab39a6570a6ad9909c200bc/1521720033570/IMG_6932.jpg?format=1500w">Brady's view while recording</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5ab39b111ae6cffd4cdef9fd/1521720164898/IMG_6933.jpg?format=1500w">Brady's new phone</a></p>
+<p><a href="https://www.youtube.com/watch?v=CTtf5s2HFkA">Gold Bullion Vault - Periodic Table of Videos</a></p>
+<p><a href="https://www.unmade.fm">Unmade Podcast</a></p>
+<p><a href="https://www.youtube.com/watch?v=INLo0Zr0_lA">Testing suitability to go to Antarctica</a></p>
+<p><a href="https://www.youtube.com/watch?v=DbKNlFcg02c">Who owns Antarctica?</a></p>
+<p><a href="http://flags.wikia.com/wiki/Tierra_del_Fuego">Tierra del Fuego flag</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5ab387ae03ce64a9d7078038/1521715243185/nail_and_gear.jpg?format=1500w">Brady flying the Nail &amp; Gear flag</a></p>
+<p><a href="http://www.bradyharanblog.com/antarctica-intro/">Brady in Antarctica</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5ab393e8575d1f7020b242f2/1521718439650/champion_iceberg.jpg?format=1500w">Award-winning iceberg</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Stephen_Hawking">Stephen Hawking</a></p>
+<p><a href="https://www.amazon.com/Illustrated-Brief-History-Updated-Expanded/dp/0553103741">An Illustrated Brief History of Time</a></p>
+<p><a href="https://www.youtube.com/watch?v=cjq8bNGHIUQ">Star Wars: The Last Jedi Hello Internet Christmas Special</a></p>
+<p><a href="https://www.youtube.com/watch?v=dNW0B0HsvVs">Solo Trailer</a></p>
+<p><a href="https://www.youtube.com/watch?v=3TPY4TKo6uQ">Solo Trailer -- Beastie Boys</a></p>
+<p><a href="https://www.youtube.com/watch?v=cSp1dM2Vj48">Ready Player One Trailer</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:37:59</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5ab3dc388a922db79830067d/1521811940743/1500w/Hello+Internet+slides.218.png" />
+			<itunes:episode>99</itunes:episode>
+			<itunes:title>H.I. #99: The Necessary Lies of Civilization</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI99.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI99.mp3" type="audio/mpeg" isDefault="true" medium="audio">
+				<media:title type="plain">H.I. #99: The Necessary Lies of Civilization</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>H.I. #98: The Dogfather</title>
 			<dc:creator>Hello Internet</dc:creator>
