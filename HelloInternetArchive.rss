@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Fri, 30 Mar 2018 21:14:52 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Thu, 26 Apr 2018 13:08:08 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,38 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>😐🔫</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Thu, 26 Apr 2018 13:08:08 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/101</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5ae0ff8a70a6adbbee36100d</guid>
+			<description><![CDATA[<p>Brady gets a new computer, words that must not be spoken, hotstopper distribution, national days, YouTube as the arbiter of truth, flat earthers, pilot announcements on flights, and gun emojis.</p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="https://www.dashlane.com/hellointernet/">Try Dashlane here: www.dashlane.com/hellointernet (Plus, here's a promo code -&gt; hellointernet)</a></p>
+<p><a href="https://www.squarespace.com">Squarespace: start building your website today with a free fourteen day trial and 10% off first purchase using offer code HELLO</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: get a free audiobook with a 30-day trial by signing up at audible.com/hellointernet or text hellointernet to 500-500</a></p>
+<p><a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://twitter.com/BradyHaran/status/989158927635009537">Hotstopper distribution</a> and <a href="https://twitter.com/cgpgrey/status/977145091369381888">more hotstopper distribution</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Siblings_Day">National Siblings Day</a></p>
+<p><a href="https://www.wired.com/story/youtube-will-link-directly-to-wikipedia-to-fight-conspiracies/">YouTube Will Link Directly to Wikipedia to Fight Conspiracy Theories</a></p>
+<p><a href="https://itunes.apple.com/gb/album/ambient-1-music-for-airports/724435863">Music for Airports</a></p>
+<p><a href="https://www.businessinsider.nl/best-bank-note-of-the-year-2017-2018-4/">Best bank note of the year</a></p>
+<p><a href="https://emojipedia.org/pistol/">Emojipedia: Gun</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:53:06</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5ae0ff8a70a6adbbee36100d/1524762652899/1500w/Hello+Internet+slides.001.png" />
+			<itunes:episode>101</itunes:episode>
+			<itunes:title>😐🔫</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/101.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/101.mp3" type="audio/mpeg" isDefault="true" medium="audio">
+				<media:title type="plain">😐🔫</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>Hello Internet Episode One Hundred</title>
 			<dc:creator>Hello Internet</dc:creator>
