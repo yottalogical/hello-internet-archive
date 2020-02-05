@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 31 May 2018 21:39:55 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Fri, 29 Jun 2018 20:00:12 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,36 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #104: Fruitbooting</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Fri, 29 Jun 2018 20:00:12 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/104</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5b3671a703ce64d31149c6a2</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: the cost of platinum, Twitter-less phones, chick flicks and airpods, comments on comments on The Internet, stealing from the self-checkout machines, YouTube subscriptions, and <em>Solo</em>.  </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="http://brilliant.org/hello">Brilliant: go to http://brilliant.org/hello and sign up for free -- first 200 people get 20% off the annual Premium subscription</a></p>
+<p><a href="https://www.squarespace.com/hellointernet">Squarespace: head to squarespace.com/hellointernet for a free trial and when you’re ready to launch, use the offer code HELLO to save 10% off your first purchase of a website or domain</a></p>
+<p><a href="http://www.hover.com/hi">Hover: the best way to buy and manage domain names - the first 100 clicks on http://hover.com/hi will get 10% off a domain name from Hover</a>
+<a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://twitter.com/BradyHaran/status/1001153108037259264">Brady make a GIF</a></p>
+<p><a href="http://www.psychologysalon.com/2017/10/tabulating-comments-to-7-ways-to.html">Tabulating Comments to “7 Ways to Maximize Misery”</a></p>
+<p><a href="https://www.amazon.com/b?ie=UTF8&amp;node=16008589011">Amazon Go</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story"><em>Solo</em></a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>02:02:56</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5b3671a703ce64d31149c6a2/1530705429270/1500w/Hello+Internet+slides.003.png" />
+			<itunes:episode>104</itunes:episode>
+			<itunes:title>H.I. #104: Fruitbooting</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/104.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/104.mp3" type="audio/mpeg" isDefault="true" medium="audio">
+				<media:title type="plain">H.I. #104: Fruitbooting</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>H.I. 103: Don't Read The Comments</title>
 			<dc:creator>Hello Internet</dc:creator>
