@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Fri, 20 Jul 2018 20:16:26 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Tue, 31 Jul 2018 19:52:49 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,42 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #106: Water on Mars</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Tue, 31 Jul 2018 19:52:49 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/106</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5b60ab7c1ae6cf370ff1ad78</guid>
+			<description><![CDATA[<p>Grey &amp; Brady discuss the British 'heat wave', water on Mars, Trypophobia, Kit Kat Trademarks, anti-dog discrimination, and YouTube's new news initiative and fake news.  </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="http://backblaze.com/hellointernet">Backblaze: unlimited, cloud backup for Macs and PCs for just $5/month - get a fully-featured 15 day free trial at backblaze.com/hellointernet</a></p>
+<p><a href="http://fractureme.com/hi">Fracture: Photos printed in vivid color directly on glass - get 15% off your first order at fractureme.com/hi and don't forget to pick Hello Internet in their one question survey</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: start a 30-day trial and get your first audiobook free by signing up at audible.com/hellointernet or text "hellointernet" to 500-500</a></p>
+<p><a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://en.wikipedia.org/wiki/Chronology_of_discoveries_of_water_on_Mars">Water on Mars</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Trypophobia">Trypophobia</a></p>
+<p><a href="https://www.reddit.com/r/trypophobia/">Trypophobia subreddit GROSS WARNING, MAYBE DON'T CLICK UNTIL AFTER HEARING BRADY'S REACTION ON THE SHOW</a></p>
+<p><a href="https://i.imgur.com/Eln84FQ.gifv">TOTALLY OK TO CLICK: Trypophobia face makeup</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5b605b1e88251b6349c84aad/1533041497178/Screen+Shot+2018-07-31+at+13.48.46.png">Welcome to North Carolina</a></p>
+<p><a href="https://www.reddit.com/r/trypophobia/comments/5k1qu6/poked_holes_into_coconut_flesh_it_looks_like_a/">Trypophobia coconut</a></p>
+<p><a href="https://i.redd.it/ip26g5tfg3c11.png">YouTube truth banners</a>, <a href="https://i.redd.it/1cty8fnb84d11.png">Example 2</a></p>
+<p><a href="https://www.bbc.co.uk/news/world-europe-44939819">Kit Kat case: No break for Nestlé in trademark row</a></p>
+<p><a href="https://techcrunch.com/2018/07/09/youtube-is-fighting-fighting-fake-news-with-25m-to-promote-journalism-and-more-context-in-search-results/">YouTube's new news initiative</a></p>
+<p><a href="https://www.youtube.com/user/newslabatgoogle">News Lab at YouTube channel</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:38:44</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5b60ab7c1ae6cf370ff1ad78/1533066775704/1500w/Hello+Internet+slides.002.png" />
+			<itunes:episode>106</itunes:episode>
+			<itunes:title>H.I. #106: Water on Mars</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/106.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/106.mp3" type="audio/mpeg" isDefault="true" medium="audio">
+				<media:title type="plain">H.I. #106: Water on Mars</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>A Recent Hello Internet</title>
 			<dc:creator>Hello Internet</dc:creator>
