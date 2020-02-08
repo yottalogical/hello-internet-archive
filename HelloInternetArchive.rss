@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Fri, 24 Aug 2018 19:08:51 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 29 Aug 2018 17:43:16 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,46 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #108: Project Cyclops</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 29 Aug 2018 17:43:16 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/108</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5b86dafccd836686f049bd1d</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: Brady story time, KSI vs Logan Paul, left vs right &amp; heroes vs villains, why-don't-you-just-ism, Formula One, and Grey is concerned about the attention economy and his own attention span.  </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="http://molekule.com/">Molekule: the only air purifier that actually destroys pollutants - get $75 off your first order at molekule.com and don't forget to enter offer code hello at checkout</a></p>
+<p><a href="http://fractureme.com/hi">Fracture: photos printed in vivid color directly on glass - get 15% off your first order at fractureme.com/hi and don't forget to pick Hello Internet in their one question survey</a> </p>
+<p><a href="http://www.hover.com/hi">Hover: the best way to buy and manage domain names - go to hover.com/hi and get 10% off your first purchase from Hover</a></p>
+<p><a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://en.wikipedia.org/wiki/KSI_vs._Logan_Paul">KSI vs Logan Paul</a></p>
+<p><a href="https://twitter.com/search?q=%23wwcgpgd&amp;src=typd">#wwcgpgd</a></p>
+<p><a href="https://www.youtube.com/watch?v=Z-Zr7c-J6qE">That one notable exception...</a></p>
+<p><a href="https://www.patreon.com/hellointernet">Hello Internet Patreon</a></p>
+<p><a href="https://www.instagram.com/p/BmEVWWNBe_-/">Brady in sparkle shorts</a></p>
+<p><a href="https://twitter.com/cgpgrey/status/1033009083719266309">'why don't you just carry a plastic cup with you'</a></p>
+<p><a href="https://amzn.to/2wpXZV3">Metal Ice Cubes</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Formula_One">Formula One</a></p>
+<p><a href="https://londonist.com/london/transport/live-news-to-be-broadcast-in-tube-stations">Live News To Be Broadcast In Tube Stations</a></p>
+<p><a href="https://www.instagram.com/p/BnD3x7aFLZD/">The Attentional Mine Field At Newark Airport</a></p>
+<p><a href="https://old.reddit.com/r/CGPGrey2/comments/93o9yn/nonfiction_nonbusiness_nonscience_book/">Grey asks for book suggestions</a></p>
+<p><a href="http://news.ycombinator.com/active">Hacker News (Probably don't click this if you share Grey's concerns) </a></p>
+<p><a href="https://overcast.fm">Overcast</a></p>
+<p><a href="https://standard.tv/collections/hello-internet/">The Hello Internet Store</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:57:10</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5b86dafccd836686f049bd1d/1535564594147/1500w/Hello+Internet+slides.002.png" />
+			<itunes:episode>108</itunes:episode>
+			<itunes:title>H.I. #108: Project Cyclops</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/108.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/108.mp3" type="audio/mpeg" isDefault="true" medium="audio">
+				<media:title type="plain">H.I. #108: Project Cyclops</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>H.I. #107: One Year of Weird</title>
 			<dc:creator>Hello Internet</dc:creator>
