@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Wed, 31 Oct 2018 17:58:58 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 28 Nov 2018 22:41:15 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,36 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #113: Thelma &amp; Louise</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 28 Nov 2018 22:41:15 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/113</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5bff0bfa352f53b36fe48ee8</guid>
+			<description><![CDATA[<p>Grey and Brady take a Southern road trip.</p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="https://www.squarespace.com/hello">Squarespace: head to squarespace.com/hello for a free trial and when you’re ready to launch, use the offer code HELLO to save 10% off your first purchase of a website or domain</a></p>
+<p><a href="http://fractureme.com/hi">Fracture: photos printed in vivid color directly on glass - get a special discount off your first order at fractureme.com/hi and don't forget to pick Hello Internet in their one question survey</a> </p>
+<p><a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://old.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://en.wikipedia.org/wiki/Deep_South">Deep South</a></p>
+<p><a href="https://www.perimeterinstitute.ca/outreach/brainstem-unconference">Brain Stem 2012</a></p>
+<p><a href="https://youtu.be/WBhoAQAI7-I">Random Acts of Intelligence 2014</a></p>
+<p><a href="https://www.thinkercon.com/">ThinkerCon 2018</a></p>
+<p><a href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5bfd79354ae237bf2c7c3913/1543338372503/IMG_3761.png">Saturn VI</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:17:54</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5bff0bfa352f53b36fe48ee8/1543444873495/1500w/Hello+Internet+slides.002.png.png" />
+			<itunes:episode>113</itunes:episode>
+			<itunes:title>H.I. #113: Thelma &amp; Louise</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/113.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/113.mp3" type="audio/mpeg" isDefault="true" medium="audio">
+				<media:title type="plain">H.I. #113: Thelma &amp; Louise</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>H.I. #112: Consistency Hobgoblins</title>
 			<dc:creator>Hello Internet</dc:creator>
