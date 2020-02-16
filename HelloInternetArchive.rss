@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 29 Nov 2018 21:02:33 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Sun, 23 Dec 2018 20:39:48 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,39 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>HI #115: Pink Flamingo</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Sun, 23 Dec 2018 20:39:48 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/2018/12/23/hi-115-pink-flamingo</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5c1ff1726d2a734eed08f586</guid>
+			<description><![CDATA[<p>Brady and Grey discuss: Brady almost dying for The Grams, The UA2408 coverup and the 4153 conspiracy, ruling on what NASA can take into space, Brady buys an iPad Pro, <a href="https://www.numberphile.com/podcast/">The Numberphile podcast</a>, the unsatisfying resolution of the Amazon HQ2 drama, The Australian Space Agency, and the most disliked video in YouTube's history: Rewind 2018.</p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="http://brilliant.org/hello">Brilliant: sign up for free to master key ideas in math and science through problem solving -- go to http://brilliant.org/hello to get 20% off the annual Premium subscription</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: start a 30-day trial and get your first audiobook free by signing up at audible.com/hellointernet or text "hellointernet" to 500-500</a></p>
+<p><a href="https://casper.com/hi">Casper: get your best rest, one night at a time - get $50 toward select mattresses by visiting Casper.com/HI and using promo code "HI" at checkout</a></p>
+<p><a data-preserve-html-node="true" href="https://www.patreon.com/hellointernet" rel="payment">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="http://reddit.com/r/cgpgrey">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://www.youtube.com/watch?v=WD2lsqSX6d4">The Pink Flamingo on YouTube</a></p>
+<p><a href="https://uk.flightaware.com/live/flight/UAL2408/history/20181119/1708Z/KTYS/KEWR">UA2408 Tracking</a></p>
+<p><a href="https://www.reddit.com/r/HelloInternet/comments/a1q28u/grays_harrowing_goaround/">UA2408 investigations</a></p>
+<p><a href="https://www.news.com.au/technology/science/space/astronauts-take-elf-on-the-shelf-to-outer-space/news-story/c85fa06c36d782e4cce653a4f2279f8b">Elf of the Shelf IN SPACE</a></p>
+<p><a href="https://twitter.com/subparfiddle/status/1070436793504489474">World-record Hotstopper</a></p>
+<p><a href="https://www.numberphile.com/podcast/">The Numberphile Podcast</a></p>
+<p><a href="https://www.youtube.com/watch?v=YbJOTdZBX1g">YouTube Rewind 2018: Everyone Controls Rewind</a></p>
+<p><a href="https://www.youtube.com/user/PewDiePie">Subscribe to PewDiePie</a></p>
+<p><a href="https://www.youtube.com/watch?v=P5dxd-ocaE8">MKBHD on Rewind</a></p>
+<p><a href="https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA">Primitive Technology</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+			<itunes:title>HI #115: Pink Flamingo</itunes:title>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI115.mp3" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI115.mp3" isDefault="true" medium="audio">
+				<media:title type="plain">HI #115: Pink Flamingo</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>H.I. #114: Stunt Peanut</title>
 			<dc:creator>Hello Internet</dc:creator>
