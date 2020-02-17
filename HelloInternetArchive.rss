@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Tue, 25 Dec 2018 09:13:22 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 26 Dec 2018 11:45:59 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,19 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>Two Turtle Doves</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 26 Dec 2018 11:45:59 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/2018/12/26/two-turtle-doves</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5c2369bc0ebbe88acf340cec</guid>
+			<description />
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5c2369bc0ebbe88acf340cec/1545824759359/1500w/Hello+Internet+slides.001+copy.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/Two_Turtle_Doves.mp3" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/Two_Turtle_Doves.mp3" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>A Partridge in a Pear Tree</title>
 			<dc:creator>Hello Internet</dc:creator>
