@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Wed, 26 Dec 2018 11:45:59 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Thu, 27 Dec 2018 14:53:52 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,22 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>Three French Hens</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Thu, 27 Dec 2018 14:53:52 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/2018/12/27/three-french-hens</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5c24e7484ae237f246074672</guid>
+			<description />
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5c24e7484ae237f246074672/1545922432284/1500w/Hello+Internet+slides.002+copy.png" />
+			<itunes:title>Three French Hens</itunes:title>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/Three_French_Hens.mp3" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/Three_French_Hens.mp3" isDefault="true" medium="audio">
+				<media:title type="plain">Three French Hens</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>Two Turtle Doves</title>
 			<dc:creator>Hello Internet</dc:creator>
