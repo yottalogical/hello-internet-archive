@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Tue, 01 Jan 2019 09:53:27 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 02 Jan 2019 16:12:17 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,19 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>Nine Ladies Dancing</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 02 Jan 2019 16:12:17 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/2019/1/2/nine-ladies-dancing</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5c2ce2ac8985832b199921a1</guid>
+			<description />
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5c2ce2ac8985832b199921a1/1546445537447/1500w/Hello+Internet+slides.002+copy.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/Nine_Ladies_Dancing.mp3" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/Nine_Ladies_Dancing.mp3" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>Eight Maids A-Milking</title>
 			<dc:creator>Hello Internet</dc:creator>
