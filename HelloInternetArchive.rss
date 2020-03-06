@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 28 Feb 2019 22:14:18 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Thu, 14 Mar 2019 20:26:05 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,35 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #120: Battle Tested</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Thu, 14 Mar 2019 20:26:05 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/120</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5c8a676de5e5f0f6c2b27866</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: <em>Dinosaurs Attack!</em> follow-up, Panini Cheapskates, Polymath University, YTWTBTVC: Premieres, and It's Always Christmas at Hello Internet.  </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="https://www.awaytravel.com/hi20">Away: thoughtfully designed luggage for the way you actually travel - get $20 off a suitcase at awaytravel.com/hi20 and use promo code hi20</a></p>
+<p><a href="https://www.hellofresh.com/landing/hellointernet80">HelloFresh: tasty recipes &amp; fresh ingredients delivered to your door - for a total of $80 off (8 free meals in your first month) go to hellofresh.com/hellointernet80 and use promo code hellointernet80</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: the largest selection of audiobooks and original audio performances anywhere - start a 30-day free trial by signing up at audible.com/hellointernet or text "hellointernet" to 500-500</a></p>
+<p><a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon:</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p>Recorded two weeks ago.  </p>
+<p><strong><a href="https://old.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://www.youtube.com/watch?v=MasfZAWCQRY">H.I. #118 YouTube edition: Dinosaurs Attack!</a></p>
+<p><a href="https://www.bobheffner.com/dinosaursattack/">Bob Heffner's Dinosaurs Attack Page - please form a queue and only visit one listener at a time.</a></p>
+<p><a href="https://www.youtube.com/watch?v=AAvLC3fz068&amp;feature=youtu.be&amp;t=1204">LOTS OF MONEY OR NOT LOTS OF MONEY!? 1993 The Black Lotus Edition</a></p>
+<p><a href="https://www.bbc.co.uk/news/uk-england-oxfordshire-47372856">Panini Cheapskates</a></p>
+<p><a href="https://www.youtube.com/watch?v=eaJtjJNrWf0">Calculator Unboxing</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:47:27</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5c8a676de5e5f0f6c2b27866/1552595166907/1500w/Hello+Internet+slides.002.png" />
+			<itunes:episode>120</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/120.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/120.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #119: Hit The Holler Horn</title>
 			<dc:creator>Hello Internet</dc:creator>
