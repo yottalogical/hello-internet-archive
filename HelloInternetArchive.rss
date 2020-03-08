@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 14 Mar 2019 20:26:05 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Sun, 31 Mar 2019 21:00:45 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,36 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>HI #121: Mr Speaker</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Sun, 31 Mar 2019 21:00:45 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/121</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5ca1234108522911473c869f</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: <a href="http://www.bradyharanblog.com/sneakers/limitededition">Hello Internet Shoes Revisited</a>, buying the Black Stump, Algorithmic Mysteries, Brexit, and Vertical Videos. </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="http://www.dashlane.com/hellointernet">Try Dashlane here: www.dashlane.com/hellointernet (Plus, here's a promo code -&gt; hello50 for first 200 people to get a 10% discount)</a></p>
+<p><a href="https://ting.com/?lpn=hi">Ting: a smarter, less expensive and more human approach to cell phone service - get $25 off your bill (or $25 off a new phone in the Ting Shop) at hi.ting.com</a></p>
+<p><a href="https://curiositystream.com/hellointernet">Curiosity Stream: unlimited access to the world's top documentaries and nonfiction series - go to curiositystream.com/hellointernet and enter promo code hellointernet during signup process for a free 30-day trial</a></p>
+<p><a data-preserve-html-node="true" href="https://www.patreon.com/hellointernet" rel="payment">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes">Show notes</h2>
+<p><a href="https://old.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></p>
+<p><a href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1554120093295-NR65D7IFQHNJFURPG5BS/">Tim shoes</a></p>
+<p><a href="http://www.bradyharanblog.com/sneakers/limitededition">SHOES ARE BACK FOR A LIMITED TIME</a></p>
+<p><a href="https://www.allhomes.com.au/commercial-sale/25-grenfell-street-adelaide-eastern-adelaide-176555832">Black Stump for sale</a></p>
+<p><a href="https://www.unmade.fm/">Unmade podcast</a></p>
+<p><a href="https://www.amazon.co.uk/Humble-Pi-Comedy-Maths-Errors/dp/0241360234/">Humble Pi</a> (or <a href="https://mathsgear.co.uk/products/humble-pi-a-comedy-of-maths-errors">here</a>)</p>
+<p><a href="https://twitter.com/BradyHaran/status/1109832057289670657">Humble Pi signed by Bradley</a></p>
+<p><a href="https://www.youtube.com/watch?v=J1Yv24cM2os&amp;list=PLqs5ohhass_QREwr7tdW8gh3kLgAwX8wh&amp;index=2">Brexit Briefly Revisited</a></p>
+<p><a href="https://en.wikipedia.org/wiki/John_Bercow">John Bercow</a></p>
+<p><a href="https://www.youtube.com/watch?v=1ddvKDLeZQo">What causes rare rainbow arcs? - Sixty Symbols</a></p>
+<p><a href="http://www.hellointernet.fm/podcast/121">Permalink</a><p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5ca1234108522911473c869f/1554752319205/1500w/Hello+Internet+slides.003.jpeg" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI121.mp3" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI121.mp3" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #120: Battle Tested</title>
 			<dc:creator>Hello Internet</dc:creator>
