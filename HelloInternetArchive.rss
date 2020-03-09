@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Sun, 31 Mar 2019 21:00:45 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 24 Apr 2019 15:13:35 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,33 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>HI #122: Wax Cylinders</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 24 Apr 2019 15:13:35 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/2019/4/24/hi-122-wax-cylinders</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5cc07beee2c4832500b2c2a2</guid>
+			<description><![CDATA[<p>Grey and Brady Discuss: <a href="http://www.bradyharanblog.com/wax-cylinder/cylinder">Hello Internet on Wax Cylinders</a>, April Fools Revisited, the <em>true</em> height of Mt Everest, the banality of life in the past, the Event Horizon Black Hole, The Rise of Skywalker, and Brady's office. </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="https://www.awaytravel.com/hi20">Away: thoughtfully designed luggage for the way you actually travel - get $20 off a suitcase at awaytravel.com/hi2019 and use promo code hi2019</a></p>
+<p><a href="http://www.hover.com/hi">Hover: the best way to buy and manage domain names - go to hover.com/hi and get 10% off your first purchase from Hover</a></p>
+<p><a href="https://ting.com/?lpn=hi">Ting: a smarter, less expensive and more human approach to cell phone service - get $25 off your bill (or $25 off a new phone in the Ting Shop) at hi.ting.com</a></p>
+<p><a data-preserve-html-node="true" href="https://www.patreon.com/hellointernet" rel="payment">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong>Discuss this episode on the reddit</strong></p>
+<p><a href="http://www.bradyharanblog.com/wax-cylinder/cylinder">Hello Internet on Wax Cylinders</a></p>
+<p><a href="https://twitter.com/BradyHaran/status/1112655263142760449">Brady's April Fool's Prank</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87_crop_max_res.jpg">Event Horizon Black Hole</a></p>
+<p><a href="https://www.youtube.com/watch?v=rflupY5Aa-Q">Sixty Symbols: THAT Black Hole picture</a></p>
+<p><a href="https://www.youtube.com/watch?v=zUyH3XhpLTo">Veritasium: How to Understand the Image of a Black Hole</a> &amp; and clever double-dipping: <a href="https://www.youtube.com/watch?v=S_GVbuddri8">First Image of a Black Hole</a></p>
+<p><a href="https://www.youtube.com/watch?v=adzYW5DZoWs">Star Wars: The Rise of Skywalker</a></p>
+<p><a href="https://www.youtube.com/watch?v=KAOdjqyG37A">How To Make A Blockbuster Movie Trailer</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5cc07beee2c4832500b2c2a2/1556118856560/1500w/Hello+Internet+slides.002.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI122.mp3" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI122.mp3" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>HI #121: Mr Speaker</title>
 			<dc:creator>Hello Internet</dc:creator>
