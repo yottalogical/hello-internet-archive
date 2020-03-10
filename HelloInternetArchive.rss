@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Wed, 24 Apr 2019 15:13:35 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Tue, 30 Apr 2019 20:04:17 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,43 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #123: Pop Quiz</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Tue, 30 Apr 2019 20:04:17 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/123</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5cc8a02ff4e1fcb1e71aa7f3</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: wax cylinder mass production, hanging out at a pub, RSS limits and (<a href="https://www.patreon.com/posts/26515115">Goodbye Internet on Patreon</a>), Grey has a pop quiz for Brady, YouTube legends, and a Brady paper cut.  </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="https://www.hellofresh.com/landing/hellointernet80">HelloFresh: tasty recipes &amp; fresh ingredients delivered to your door - for a total of $80 off (8 free meals in your first month) go to hellofresh.com/hellointernet80 and use promo code hellointernet80</a></p>
+<p><a href="http://molekule.com/">Molekule: the only air purifier that actually destroys pollutants - get $75 off your first order at molekule.com and don't forget to enter offer code hello75 at checkout</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: the largest selection of audiobooks and original audio performances anywhere - start a 30-day free trial by signing up at audible.com/hellointernet or text "hellointernet" to 500-500</a></p>
+<p><a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://old.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://www.youtube.com/watch?v=OmSwDv4DwE0">HI #122: Wax Cylinders</a></p>
+<p><a href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1556567037429-GII8MV3H5HHCC5HX69ZP/D3OT5XMW0AAmQIn.jpeg?format=1500w&amp;content-type=image%2Fjpeg">Wild night at the pub with Brady and Grey</a></p>
+<p><a href="https://www.youtube.com/watch?v=p8FhNRVe_zA&amp;list=PLe_b-HAZD1pXkdaepBjnBs8__d9PLq4EN">The 12 Days of Hello Internet</a></p>
+<p><a href="https://www.youtube.com/user/HelloInternetPodcast">Hello Internet full archive on YouTube</a></p>
+<p><a href="https://twitter.com/BradyHaran/status/1119878618652577793">Brady campaigning for #SquareSpaceBeyond100 on Twitter</a></p>
+<p><a href="https://overcast.fm">Overcast</a></p>
+<p><a href="https://play.pocketcasts.com">PocketCast</a></p>
+<p><a href="https://link.springer.com/article/10.3758/s13428-012-0307-9">General Knowledge Norms</a></p>
+<p><a href="https://www.youtube.com/user/communitychannel">Natalie Tran</a></p>
+<p><a href="https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw">PewDiePie</a></p>
+<p><a href="https://www.youtube.com/watch?v=VxyiRMcNIVo&amp;list=PLMs_JcuNozJa7tg80N_kITisZjHHeE3uo">The Show</a> with <a href="https://www.youtube.com/user/zefrank1">ZeFrank</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:24:24</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5cc8a02ff4e1fcb1e71aa7f3/1556742223086/1500w/Hello+Internet+slides.002.png" />
+			<itunes:episode>123</itunes:episode>
+			<itunes:title>H.I. #123: Pop Quiz</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/123.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/123.mp3" type="audio/mpeg" isDefault="true" medium="audio">
+				<media:title type="plain">H.I. #123: Pop Quiz</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>HI #122: Wax Cylinders</title>
 			<dc:creator>Hello Internet</dc:creator>
