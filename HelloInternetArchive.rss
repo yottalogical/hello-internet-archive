@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Mon, 27 May 2019 17:37:42 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Sun, 30 Jun 2019 21:37:53 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,38 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #125: The Spice Must Flow</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Sun, 30 Jun 2019 21:37:53 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/2019/6/30/hi-125-the-spice-must-flow</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5d192b212b8b4900011cc1e0</guid>
+			<description><![CDATA[<p>Grey and Brady's discuss: Grod, the cricket world cup, #squarespacebeyond100, wax cylinder follow up, podcast faces, tipping revisited, the new awkward social thing, and vaping. </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="https://www.hellofresh.com/landing/hellointernet80">HelloFresh: tasty recipes &amp; fresh ingredients delivered to your door - for a total of $80 off (8 free meals in your first month) go to hellofresh.com/hellointernet80 and use promo code hellointernet80</a></p>
+<p><a href="https://www.awaytravel.com/hi20">Away: thoughtfully designed luggage for the way you actually travel - get $20 off a suitcase at awaytravel.com/hi2019 and use promo code hi2019</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: the largest selection of audiobooks and original audio performances anywhere - start a 30-day free trial by signing up at audible.com/hellointernet or text "hellointernet" to 500-500</a></p>
+<p><a data-preserve-html-node="true" href="https://www.patreon.com/hellointernet" rel="payment">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://en.wikipedia.org/wiki/The_Ashes">The Ashes</a></p>
+<p><a href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1561930070869-OYH3UVLACYY1YGT7JH60/Screen+Shot+2019-06-27+at+20.10.23.jpg?format=1500w&amp;content-type=image%2Fjpeg">Brady on screen</a></p>
+<p><a href="https://www.youtube.com/user/destinws2">Destin</a></p>
+<p><a href="https://www.youtube.com/user/HelloInternetPodcast">HI back catalogue on YouTube</a> &amp; <a href="https://www.patreon.com/hellointernet">Patreon</a></p>
+<p><a href="https://www.instagram.com/p/BygioFiFg5M/?igshid=1623ogfxlxbx0">All the wax cylinders</a></p>
+<p><a href="https://upload.wikimedia.org/wikipedia/commons/7/73/HoldPhonoCylinder.jpg">Wax cylinder correct handling</a></p>
+<p><a href="https://www.youtube.com/watch?v=WQ_-OVwS2ak">Wax cylinders in production</a></p>
+<p><a href="http://www.cgpgrey.com/blog/faceless-voices">Grey's blog: Faceless Voices</a></p>
+<p><a href="https://www.panerabread.com/en-us/home.html/">Panera</a></p>
+<p><a href="https://www.pocket-lint.com/phones/news/146874-reverse-wireless-charging-explained-which-phones">Reverse wireless charging</a></p>
+<p><a href="https://static01.nyt.com/images/2019/05/27/world/26everest2-print/merlin_155279730_9a078aae-b874-4b50-9ff4-72a8ec2a93ae-superJumbo.jpg?quality=90&amp;auto=webp">Line to climb Mt Everest</a></p>
+<p><a href="https://www.patreon.com/posts/goodbye-internet-28027593">Goodbye Internet 125</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5d192b212b8b4900011cc1e0/1561931527677/1500w/Hello+Internet+slides.002.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/125.mp3" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/125.mp3" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #124: Double High Five</title>
 			<dc:creator>Hello Internet</dc:creator>
