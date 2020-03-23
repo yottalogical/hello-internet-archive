@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Mon, 30 Sep 2019 19:30:17 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Tue, 29 Oct 2019 09:08:08 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,34 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #130: Remember Harder</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Tue, 29 Oct 2019 09:08:08 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/130</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5db8017c4227324f39175dcc</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: skyscrapers, what it's like in your head, iPhone trypophobia, Brady gets an Apple Watch, AirBnB revisited, the final trailer for the final Star Wars, and The Game Changers.  </p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="https://eero.com/hellointernet">Eero: hyper fast, super secure wifi to every room in your home - go to eero.com/hellointernet and use promo code hellointernet for free overnight shipping</a></p>
+<p><a href="http://www.hover.com/hi">Hover: the best way to buy and manage domain names - go to hover.com/hi and get 10% off your first purchase from Hover</a></p>
+<p><a href="https://www.awaytravel.com/hellointernet20">Away: thoughtfully designed luggage for the way you actually travel - get $20 off a suitcase at awaytravel.com/hellointernet20 and use promo code hellointernet20</a></p>
+<p><a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://old.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://www.youtube.com/watch?v=8Qn_spdM5Zg">Star Wars: The Rise of Skywalker - Final Trailer</a></p>
+<p><a href="https://www.netflix.com/title/81157840">The Game Changers</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:33:33</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5db8017c4227324f39175dcc/1574198684488/1500w/HI+slides.002.png" />
+			<itunes:episode>130</itunes:episode>
+			<itunes:title>H.I. #130: Remember Harder</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/130.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/130.mp3" type="audio/mpeg" isDefault="true" medium="audio">
+				<media:title type="plain">H.I. #130: Remember Harder</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>H.I. #129: Sunday Spreadsheets</title>
 			<dc:creator>Hello Internet</dc:creator>
