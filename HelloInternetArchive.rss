@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Tue, 19 Nov 2019 21:22:23 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Mon, 23 Dec 2019 22:39:57 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,42 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #132: Artisan Water</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Mon, 23 Dec 2019 22:39:57 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/132</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5e014241b99f6767d7dc7295</guid>
+			<description><![CDATA[<p>Brady and Grey discuss: Berlin hotdrops, China feedback, fizzy water revisited, annual Instagram Island, yet more straw materials, art corner, the completely appalling and totally unacceptable Peloton bike commercial, and YouTube Rewind 2019.</p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="https://ting.com/?lpn=hi">Ting: a smarter, less expensive and more human approach to cell phone service - get $25 off your phone bill at hi.ting.com</a></p>
+<p><a href="http://www.hover.com/hi">Hover: the best way to buy and manage domain names - go to hover.com/hi and get 10% off your first purchase from Hover</a></p>
+<p><a href="http://backblaze.com/hellointernet">Backblaze: unlimited, cloud backup for Macs and PCs for just $6/month - get a fully-featured 15 day free trial at backblaze.com/hellointernet</a></p>
+<p><a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://old.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://twitter.com/balsam/status/1200064221981159425">Berlin photo hotdrop</a></p>
+<p><a href="https://www.dezeen.com/2019/05/03/notre-dame-glass-roof-spire-cathedral-miysis-studio/">Notre-Dame redesign that won't happen</a></p>
+<p><a href="https://www.aarke.com/?v=79cba1185463">Aarke</a></p>
+<p><a href="https://www.instagram.com/stories/highlights/17867202517564267/">Brady on Instagram Island</a></p>
+<p><a href="https://www.theguardian.com/artanddesign/2019/dec/11/david-datuna-120000-banana-interview-art-basel-miami">Banana art</a></p>
+<p><a href="https://www.bbc.co.uk/news/entertainment-arts-50631998">Turner Prize renders itself valueless</a></p>
+<p><a href="https://www.youtube.com/watch?v=pShKu2icEYw">Peloton Bike Commercial</a></p>
+<p><a href="https://www.youtube.com/watch?v=YbJOTdZBX1g">YouTube Rewind 2018</a></p>
+<p><a href="https://www.youtube.com/watch?v=2lAe1cqCOXo">YouTube Rewind 2019</a></p>
+<p><a href="https://www.youtube.com/watch?v=7PIMiDcwNvc">PewDiePie's wedding</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:31:48</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5e014241b99f6767d7dc7295/1577142052527/1500w/HI+slides.002.png" />
+			<itunes:episode>132</itunes:episode>
+			<itunes:title>H.I. #132: Artisan Water</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/132.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/132.mp3" type="audio/mpeg" isDefault="true" medium="audio">
+				<media:title type="plain">H.I. #132: Artisan Water</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>H.I. #131: Panda Park</title>
 			<dc:creator>Hello Internet</dc:creator>
