@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Mon, 23 Dec 2019 22:39:57 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 25 Dec 2019 09:38:28 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,25 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>Star Wars: The Rise of Skywalker, Hello Internet Christmas Special</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 25 Dec 2019 09:38:28 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/2019/12/25/star-wars-the-rise-of-skywalker-hello-internet-christmas-special</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5e032c4ab99f6767d7f6d04c</guid>
+			<description><![CDATA[<p>🎄Merry Christmas 🎄</p>
+<p>This episode brought to you by our patrons: <a href="https://www.patreon.com/hellointernet">https://www.patreon.com/hellointernet</a></p>
+<p>Discuss on the reddit: <a href="https://www.reddit.com/r/CGPGrey/">https://www.reddit.com/r/CGPGrey/</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:subtitle>The Rise of Skywalker</itunes:subtitle>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5e032c4ab99f6767d7f6d04c/1577266728895/1500w/HI+slides.001.jpeg" />
+			<itunes:title>The Rise of Skywalker</itunes:title>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/The_Rise_of_Skywalker.mp3" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/The_Rise_of_Skywalker.mp3" isDefault="true" medium="audio">
+				<media:title type="plain">The Rise of Skywalker</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>H.I. #132: Artisan Water</title>
 			<dc:creator>Hello Internet</dc:creator>
