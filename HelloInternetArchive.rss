@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Wed, 25 Dec 2019 09:38:28 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Mon, 30 Dec 2019 22:52:28 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,42 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title># H.I. 134: Boxing Day</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Mon, 30 Dec 2019 22:52:28 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/134</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5e0a7e5620047132b436a0dc</guid>
+			<description><![CDATA[<p>On a chill boxing day, Grey and Brady discuss: post-final-Star-wars-trilogy feelings, the endings of things, Cybertruck, xmas hotstoppers, gong baths, imagine an apple revisited, Brady's idea for youtube rewind, still more straws, and meditation... results?</p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="www.linode.com/hellointernet">Linode.com - Cloud Hosting Service: get started with a $20 credit at linode.com/hellointernet</a></p>
+<p><a href="https://www.hellofresh.com/landing/hellointernet10">HelloFresh: tasty recipes &amp; fresh ingredients delivered to your door - 10 free meals in your first month go to hellofresh.com/hellointernet10 and use promo code hellointernet10</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: the largest selection of audiobooks, start a 30-day free trial by signing up at audible.com/hellointernet or text "hellointernet" to 500-500</a></p>
+<p><a data-preserve-html-node="true" href="https://www.patreon.com/hellointernet" rel="payment">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="">Discuss this episode on the reddit</a></strong></p>
+<p><a href="https://old.reddit.com/r/CGPGrey/comments/efeqm0/star_wars_the_rise_of_skywalker_hello_internet/">The Star Wars discussion</a></p>
+<p><a href="https://www.wbstudiotour.co.uk">London Harry Potter World</a></p>
+<p><a href="https://tv.apple.com/gb/show/servant/umc.cmc.4y25wuby7pck9o6vaubbbk7gb">Servant</a></p>
+<p><a href="https://www.imdb.com/title/tt1487118/">Chalet Girl</a></p>
+<p><a href="https://www.tesla.com/en_gb/cybertruck">The Cybertruck</a></p>
+<p><a href="https://twitter.com/mirima_/status/1209933227915390987?s=20">Framed Germany hot drop</a></p>
+<p><a href="https://www.instagram.com/p/B6f6o0upbqe/">'Winter Wonderland' hot stop drop</a></p>
+<p><a href="https://old.reddit.com/r/HelloInternet/comments/egcpss/just_found_greys_christmas_day_hot_stop_drop/">SHOWNOTES UPDATE: hot stop drop found</a></p>
+<p><a href="https://hydeparkwinterwonderland.com">Christmas Village Nightmare</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Aphantasia">Aphantasia</a></p>
+<p><a href="https://www.cgpgrey.com/blog/faceless-voices">Faceless Voices</a></p>
+<p><a href="https://www.youtube.com/watch?v=__UlMppZZgs">Pi Million Subscribers - Numberphile</a></p>
+<p><a href="https://www.youtube.com/watch?v=aO3JgPUJ6iQ">Captain Disillusion impersonations</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5e0a7e5620047132b436a0dc/1577746348544/1500w/HI+slides.002.png" />
+			<itunes:title>H.I. 134: Boxing Day</itunes:title>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI134.mp3" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI134.mp3" isDefault="true" medium="audio">
+				<media:title type="plain">H.I. 134: Boxing Day</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>Star Wars: The Rise of Skywalker, Hello Internet Christmas Special</title>
 			<dc:creator>Hello Internet</dc:creator>
