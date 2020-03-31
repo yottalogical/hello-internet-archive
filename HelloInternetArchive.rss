@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 23 Jan 2020 16:23:43 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Fri, 28 Feb 2020 10:13:27 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,46 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #136: Dog Bingo</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Fri, 28 Feb 2020 10:13:27 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/136</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5e58de8a37459e0d069efda0</guid>
+			<description><![CDATA[<p>Grey and Brady discuss: The Mt Doom Edition, Dinosaurs Attack! randomness, YouTube videos from beyond the grave, betting on your weight, speedrunning, date formatting, the Space Force logo, and emoji.</p>
+<h2 id="sponsors-">Sponsors:</h2>
+<p><a href="https://www.hellofresh.com/hellointernet10">HelloFresh: tasty recipes &amp; fresh ingredients delivered to your door - get ten free meals including shipping - go to hellofresh.com/hellointernet10 and use promo code hellointernet10</a></p>
+<p><a href="http://audible.com/hellointernet">Audible: the largest selection of audiobooks and original audio performances anywhere - start a 30-day trial and get 1 audiobook and 2 Audible Originals absolutely free by signing up at audible.com/hellointernet or text "hellointernet" to 500-500</a></p>
+<p><a href="www.dashlane.com/hellointernet">Dashlane: password manager app and secure digital wallet - try Dashlane here for a free 30 day trial: www.dashlane.com/hellointernet (plus, here's a promo code -&gt; HelloInternet to get a 10% discount for Dashlane Premium)</a></p>
+<p><a href="https://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+<h2 id="show-notes-">Show Notes:</h2>
+<p><strong><a href="https://old.reddit.com/r/CGPGrey/">Discuss this episode on the reddit</a></strong></p>
+<p><a href="http://www.bradyharanblog.com/vinyl/mount-doom">Mt Doom Edition</a></p>
+<p><a href="https://loudwire.com/apollo-masters-fire-vinyl-record-production-endangered/">Vinyl supply threatened</a></p>
+<p><a href="http://www.podcastpostcards.com">Podcast Postcards</a></p>
+<p><a href="https://i.redd.it/j359t37wpbe41.jpg">A Tim and David Allen</a></p>
+<p><a href="https://www.youtube.com/watch?v=JSdLNJW0ct4">"I've been murdered"</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a></p>
+<p><a href="https://www.bbc.co.uk/news/business-51406167">Weight loss wager firms</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Speedrun">Speedrunning</a></p>
+<p><a href="https://www.youtube.com/watch?v=ruLQ0LShWR0">Pitfall 2 Speed Run</a></p>
+<p><a href="https://www.youtube.com/watch?v=xMX0uQpDsYU">Doom level speedrun explained</a></p>
+<p><a href="https://www.youtube.com/watch?v=pXqzaFvimqM">House of the Dead</a></p>
+<p><a href="https://www.youtube.com/watch?v=9jA53IkHZJg">Confessions of a Tetris Addict</a></p>
+<p><a href="https://en.wikipedia.org/wiki/United_States_Space_Force">United States Space Force</a></p>
+<p><a href="https://blog.emojipedia.org/117-new-emojis-in-final-list-for-2020/">New Emoji season</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:21:54</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5e58de8a37459e0d069efda0/1582884806450/1500w/HI+slides.002.png" />
+			<itunes:episode>136</itunes:episode>
+			<itunes:title>H.I. #136: Dog Bingo</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<enclosure url="http://traffic.libsyn.com/hellointernet/136FinalFinal.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/136FinalFinal.mp3" type="audio/mpeg" isDefault="true" medium="audio">
+				<media:title type="plain">H.I. #136: Dog Bingo</media:title>
+			</media:content>
+		</item>
 		<item>
 			<title>H.I. #135: Place Your Bets</title>
 			<dc:creator>Hello Internet</dc:creator>
