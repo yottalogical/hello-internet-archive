@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Fri, 31 Jan 2014 18:21:03 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Fri, 07 Feb 2014 20:38:00 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,58 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #2: Copyright Not Intended</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Fri, 07 Feb 2014 20:38:00 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/2</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:52f53e2be4b0b19928bdb72c</guid>
+			<description><![CDATA[<p>Grey &amp; Brady talk about copyright. </p>
+
+<h2 id="sponsor">Sponsor</h2>
+
+<p><a href="http://www.audible.com/hellointernet">Audible.com: Get a FREE audiobook and 30-day trial today by signing up at www.audible.com/hellointernet</a></p>
+
+<h2 id="subscribe">Subscribe:</h2>
+
+<p><a href="http://www.hellointernet.fm/itunes">via iTunes</a>, <a href="http://feeds.podtrac.com/rZy85ymZYZc$">via RSS</a></p>
+
+<h2 id="relevantlinks">Relevant Links:</h2>
+
+<p><a href="http://www.reddit.com/r/CGPGrey/comments/1xavrm/hello_internet_2_copyright_not_intended/">Discuss this episode on reddit</a></p>
+
+<p><a href="http://www.hellointernet.fm/topic-suggestions">Suggest future topics for H.I.</a></p>
+
+<p><a href="http://www.economist.com/blogs/economist-explains/2013/09/economist-explains-itself">Why does The Economist call itself a newspaper?</a></p>
+
+<p><a href="http://www.youtube.com/watch?v=tk862BbjWx4">CGP Grey copyright video</a></p>
+
+<p><a href="http://everythingisaremix.info/watch-the-series/">Everything is a Remix</a></p>
+
+<p><a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a></p>
+
+<p><a href="http://www.youtube.com/watch?v=CTtf5s2HFkA">Brady's video inside the Bank of England's Gold Bullion Vault</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B001JYIJAY/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001JYIJAY&amp;linkCode=as2&amp;tag=hiintfm-20">Clueless</a></p>
+
+<p><a href="https://itunes.apple.com/us/tv-season/sherlock-series-1-2-box-set/id569939715?mt=8&amp;uo=4&amp;at=11l5Fy&amp;ct=hi">BBC's Sherlock</a></p>
+
+<p><a href="http://hypercritical.co/">John Siracusa</a></p>
+
+<p><a href="http://lmgtfy.com/?q=Star+Wars+Despecialized+Edition">Star Wars Despecialized Edition</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B005PXQUC4/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005PXQUC4&amp;linkCode=as2&amp;tag=hiintfm-20">The People Vs. George Lucas</a></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Zapruder_film">The Zapruder film</a></p>
+
+<p><a href="http://www.ted.com/talks/johanna_blakley_lessons_from_fashion_s_free_culture.html">Johanna Blakley: Lessons from fashion's free culture</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:56:12</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/52f53e2be4b0b19928bdb72c/1462385368667/1500w/Hello+Internet+Small.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI20220--20Copyright20Not20Intended.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI20220--20Copyright20Not20Intended.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #1: Being Wrong on The Internet</title>
 			<dc:creator>Hello Internet</dc:creator>
