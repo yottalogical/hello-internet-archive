@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Tue, 11 Feb 2014 18:34:01 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Tue, 18 Feb 2014 21:37:27 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,58 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #4: Feedback on Feedback</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Tue, 18 Feb 2014 21:37:27 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/4</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5303d0d2e4b0702c09b6266e</guid>
+			<description><![CDATA[<p>Grey &amp; Brady talk about the show going live and the nature of feedback. </p>
+
+<h2 id="sponsor">Sponsor</h2>
+
+<p><a href="http://www.audible.com/hellointernet">Audible.com: Get a FREE audiobook and 30-day trial today by signing up at www.audible.com/hellointernet</a></p>
+
+<h2 id="subscribe">Subscribe:</h2>
+
+<p><a href="http://www.hellointernet.fm/itunes">via iTunes</a>, <a href="http://feeds.podtrac.com/rZy85ymZYZc$">via RSS</a></p>
+
+<h2 id="relevantlinks">Relevant Links:</h2>
+
+<p><a href="http://www.reddit.com/r/CGPGrey/comments/1ya24y/hi_4_feedback_on_feedback/">Discuss this episode</a></p>
+
+<p><a href="http://www.youtube.com/user/minutephysics">Henry of MinutePhysics</a></p>
+
+<p><a href="http://reddit.com/r/cgpgrey">CGP Grey subreddit</a></p>
+
+<p><a href="http://www.hellointernet.fm/podcast/2">Episode #2: Copyright Not Intended</a></p>
+
+<p><a href="http://periodicvideos.blogspot.co.uk/2012/02/brown-paper-question.html">Brown Paper Discussed</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/1864366052/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1864366052&amp;linkCode=as2&amp;tag=hiintfm-20">Brady's Dad's book: Trackers</a></p>
+
+<p><a href="http://www.youtube.com/watch?v=9wX-l8GFBq8">World's Greatest Autograph Book</a></p>
+
+<p><a href="http://royalsociety.org/">The Royal Society</a></p>
+
+<p><a href="http://royalsociety.org/library/visitors/">Visiting the Royal Society library</a></p>
+
+<p><a href="http://5by5.tv/hypercritical">Hypercritical</a></p>
+
+<p><a href="http://www.youtube.com/user/1veritasium">Derek of Veritasium</a></p>
+
+<p><a href="http://www.deathbulge.com/#/comics/155">Deathbulge Comic 155</a></p>
+
+<p><a href="http://www.zefrank.com/theshow/">The Show with ZeFrank</a></p>
+
+<p><a href="http://www.youtube.com/watch?v=N5fXtThdR8I">ZeFrank on comments</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:34:56</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5303d0d2e4b0702c09b6266e/1462385328502/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/HI20420--20Feedback20on20Feedback.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/HI20420--20Feedback20on20Feedback.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #3: Four Light Bulbs</title>
 			<dc:creator>Hello Internet</dc:creator>
