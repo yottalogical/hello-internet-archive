@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Tue, 18 Feb 2014 21:37:27 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 26 Feb 2014 21:02:49 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,48 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #5: Freebooting</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 26 Feb 2014 21:02:49 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/5</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:530e5496e4b0ec7156b1d99f</guid>
+			<description><![CDATA[<p>Grey and Brady talk about alternative words for infringement, the disgustingness of stuff and the impossibility of consistent opinions on how to treat advertising. </p>
+
+<h2 id="sponsor">Sponsor</h2>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace makes it fast and easy to create your website. Use code HELLOINTERNET for 10% off.</a></p>
+
+<h2 id="subscribe">Subscribe:</h2>
+
+<p><a href="http://www.hellointernet.fm/itunes">via iTunes</a>, <a href="http://feeds.podtrac.com/rZy85ymZYZc$">via RSS</a></p>
+
+<p><a href="http://www.reddit.com/r/CGPGrey/comments/1z0vz6/hi_5_freebooting/">Discuss this episode of Hello Internet</a></p>
+
+<p><a href="http://www.youtube.com/user/AlanKey86">Alan Stewart</a></p>
+
+<p><a href="http://www.youtube.com/watch?v=f_SqrXtuSoc">Periodic Videos Yule Log</a></p>
+
+<p><a href="http://www.youtube.com/watch?v=dqhdbUh8TkY">Bibledex: Church of the Holy Sepulchre</a></p>
+
+<p><a href="http://en.wiktionary.org/wiki/freebooting">Freebooting</a></p>
+
+<p><a href="http://www.aetv.com/hoarders">Hoarders</a></p>
+
+<p><a href="https://itunes.apple.com/gb/app/omnifocus/id402835630?mt=8&amp;uo=4&amp;at=11l5Fy">Omnifocus</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B0054JJ0QW/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0054JJ0QW&amp;linkCode=as2&amp;tag=hiintfm-20">Bose QuietComfort 15 Acoustic Noise Cancelling Headphones</a></p>
+
+<p><a href="http://www.flickr.com/photos/tonydemarco/sets/72157600075508212/">São Paulo no billboards</a></p>
+
+<p><a href="http://www.amusingplanet.com/2013/05/art-and-decor-of-moscow-metro-stations.html">Moscow Metro</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:22:33</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/530e5496e4b0ec7156b1d99f/1462385316610/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/5.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/5.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #4: Feedback on Feedback</title>
 			<dc:creator>Hello Internet</dc:creator>
