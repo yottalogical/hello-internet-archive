@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Wed, 26 Feb 2014 21:02:49 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Mon, 10 Mar 2014 19:25:59 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,38 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #6: Delete, Flag, Delete, Reply</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Mon, 10 Mar 2014 19:25:59 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/6</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:531e120de4b0a09d95869026</guid>
+			<description><![CDATA[<p>Grey &amp; Brady talk about clutter, Tesla Motors and Email</p>
+
+<h2 id="sponsor">Sponsor</h2>
+
+<p><a href="http://www.audible.com/hellointernet">Audible.com: Get a FREE audiobook and 30-day trial today by signing up at www.audible.com/hellointernet</a></p>
+
+<h2 id="subscribe">Subscribe:</h2>
+
+<p><a href="http://www.hellointernet.fm/itunes">via iTunes</a>, <a href="http://feeds.podtrac.com/rZy85ymZYZc$">via RSS</a></p>
+
+<p><a href="http://www.reddit.com/r/CGPGrey/comments/202yr4/hi_6_delete_flag_delete_reply/">Discuss this episode</a></p>
+
+<p><a href="http://www.reddit.com/r/pics/comments/1ri5ot/there_are_a_lot_of_beautiful_homes_this_one_is/">A Beautiful Home</a></p>
+
+<p><a href="http://www.cgpgrey.com/mountain-house-clutter">All the pointless crap in the above</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=z9UjeTMb3Yk">Merlin Mann's Inbox Zero talk</a></p>
+
+<p><a href="https://itunes.apple.com/gb/app/drafts-for-ipad-quickly-capture/id542797283?mt=8&amp;uo=4&amp;at=11l5Fy">Drafts for iPad / iPhone</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:30:37</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/531e120de4b0a09d95869026/1462385289675/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/6.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/6.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #5: Freebooting</title>
 			<dc:creator>Hello Internet</dc:creator>
