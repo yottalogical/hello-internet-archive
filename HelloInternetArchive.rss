@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Mon, 10 Mar 2014 19:25:59 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Mon, 17 Mar 2014 14:13:47 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,51 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #7: Sorry, Language Teachers</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Mon, 17 Mar 2014 14:13:47 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/7</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5326fee5e4b0fe7a8e46a7ee</guid>
+			<description><![CDATA[<p>Grey and Brady discuss Pi Day, death by airplane and should foreign languages be required in school.</p>
+
+<h2 id="sponsor">Sponsor</h2>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace makes it fast and easy to create your website.  Use code HELLOINTERNET for 10% off.</a></p>
+
+<h2 id="subscribe">Subscribe:</h2>
+
+<p><a href="http://www.hellointernet.fm/itunes">via iTunes</a>, <a href="http://feeds.podtrac.com/rZy85ymZYZc$">via RSS</a></p>
+<p><a href="http://www.reddit.com/r/CGPGrey/comments/20mohu/hi_7_sorry_language_teachers/">Discuss this episode</a></p>
+
+<p><a href="http://hellointernet.fm/grey-and-brady/">CGP Grey in Brady's house</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B00C1N5WOI/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00C1N5WOI&amp;linkCode=as2&amp;tag=hiintfm-20">Average Is Over</a></p>
+
+<p><a href="http://www.reddit.com/r/changemyview/comments/1zovz5/if_using_ad_block_is_stealing_content_then_so_is/">Reddit change my view</a></p>
+
+<p><a href="http://www.reddit.com/r/freebooting">r/Freebooting</a></p>
+
+<p><a href="http://www.youtube.com/watch?v=5iUh_CSjaSw&amp;list=UUOGeU-1Fig3rrDjhm9Zs_wg">Anti-Pi Rant, 3/14/14</a></p>
+
+<p><a href="http://www.youtube.com/watch?v=83ofi_L6eAo">Professor Phil Moriarty talks about Tau on Numberphile</a></p>
+
+<p><a href="https://itunes.apple.com/us/tv-season/the-wire-season-1/id279170604?mt=8&amp;uo=4&amp;at=11l5Fy">The Wire</a></p>
+
+<p><a href="http://qz.com/142199/the-us-needs-to-retire-daylight-savings-and-just-have-two-time-zones-one-hour-apart/">How to make the US into two time zones</a></p>
+
+<p><a href="http://www.fiatlux.fm/pragmatic/11">Pragmatic: Cause and Effect</a></p>
+
+<p><a href="http://www.youtube.com/watch?v=GOiIxqcbzyM">Q&amp;A with Grey video</a></p>
+
+<p><a href="http://freakonomics.com/2014/03/06/is-learning-a-foreign-language-really-worth-it-a-new-freakonomics-radio-podcast/">Is Learning a Foreign Language Really Worth It?</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:36:14</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5326fee5e4b0fe7a8e46a7ee/1462385271407/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/7.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/7.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #6: Delete, Flag, Delete, Reply</title>
 			<dc:creator>Hello Internet</dc:creator>
