@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Mon, 31 Mar 2014 11:41:27 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Tue, 15 Apr 2014 23:00:00 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,54 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #9: Kids in a Box</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Tue, 15 Apr 2014 23:00:00 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/9</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:534dbd80e4b0c0645e805563</guid>
+			<description><![CDATA[<p>Grey and Brady discuss a Yahoo competitor to YouTube, traveling to Everest together, the importance of dream interpretation for a healthy mental life, a complete review of <em>The Desolation of Smaug</em>, the action-packed super bowl, what is it that schools <em>really</em> do and much, much more. </p>
+
+<h2 id="sponsor">Sponsor</h2>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace makes it fast and easy to create your website. Use code HELLOINTERNET for 10% off.</a></p>
+
+<h2 id="subscribe">Subscribe:</h2>
+
+<p><a href="http://www.hellointernet.fm/itunes">via iTunes</a>, <a href="http://feeds.podtrac.com/rZy85ymZYZc$">via RSS</a></p>
+
+<p><a href="http://www.reddit.com/r/CGPGrey/comments/2364yp/hi_9_kids_in_a_box/">Discuss this episode</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B000FC1ITK/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000FC1ITK&amp;linkCode=as2&amp;tag=hiintfm-20">Into Thin Air</a></p>
+
+<p><a href="http://periodicvideos.blogspot.co.uk/2012/09/everest-plane-crash-9n-aha.html">Everest plane crash</a></p>
+
+<p><a href="http://www.reddit.com/r/CGPGrey/comments/21tn8w/hi_8_first_world_youtuber_problems/cghg38n">Brady vs Grey infographic</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=piEayQ0T-qA">Are Hong Kong &amp; Macau Countries?</a></p>
+
+<p><a href="http://www.openttd.org/en/">OpenTTD</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=sG_6nlMZ8f4&amp;list=UUoxcjq-8xIDTYp3uz647V5A">Epic Circles</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=sG_6nlMZ8f4&amp;google_comment_id=z13ng33xplf2zncpp04ced3rnqunvfhplck">FIRST!</a></p>
+
+<p><a href="http://recode.net/2014/03/28/ready-for-marissas-closeup-yahoo-is-considering-creating-its-own-youtube-and-poaching-youtube-stars/">Yahoo Is Considering Creating Its Own YouTube -- And Poaching YouTube Stars.</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B00ISJS48U/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00ISJS48U&amp;linkCode=as2&amp;tag=hiintfm-20">The Desolation Of Smaug</a></p>
+
+<p><a href="http://online.wsj.com/news/articles/SB10001424052748704281204575002852055561406">11 Minutes of Action in the Super Bowl</a></p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/3476522/FTP/Brady%27s%20House.jpg">Brady's House</a></p>
+
+<p><a href="http://econlog.econlib.org/archives/2014/02/why_the_college.html">What Bad Students Know that Good Economists Don't by Bryan Caplan</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:29:36</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/534dbd80e4b0c0645e805563/1462385235243/1500w/Hello+Internet.003.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/9.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/9.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #8: First World YouTuber Problems</title>
 			<dc:creator>Hello Internet</dc:creator>
