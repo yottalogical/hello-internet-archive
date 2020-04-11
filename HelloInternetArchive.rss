@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Tue, 15 Apr 2014 23:00:00 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 23 Apr 2014 14:54:00 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,58 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #10: Two Dudes Talking</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 23 Apr 2014 14:54:00 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/10</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5356827fe4b078fcf096a0b5</guid>
+			<description><![CDATA[<p>Follow up on what schools are for, Brady moans about small things, and thoughts on this podcasting experiment.</p>
+
+<h2 id="sponsor">Sponsor</h2>
+
+<p><a href="http://www.audible.com/hellointernet">Audible.com: Get a FREE audiobook and 30-day trial today by signing up at www.audible.com/hellointernet</a></p>
+
+<h2 id="subscribe">Subscribe:</h2>
+
+<p><a href="http://www.hellointernet.fm/itunes">via iTunes</a>, <a href="http://feeds.podtrac.com/rZy85ymZYZc$">via RSS</a></p>
+
+<p><a href="http://www.reddit.com/r/CGPGrey/comments/23p2ei/hi_10_two_dudes_talking/">Discuss this episode</a></p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/3476522/FTP/2014-04-23%20%7C%20lulu.jpg">Lulu!</a></p>
+
+<p><a href="http://www.hellointernet.fm/podcast/1">HI #1: Being Wrong on the Internet</a></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education">PGCE</a></p>
+
+<p><a href="https://twitter.com/JFlavin/status/456492843100409858">Twitter Homework</a></p>
+
+<p><a href="http://brady-vs-grey.appspot.com/">Brady vs Grey</a></p>
+
+<p><a href="http://www.youtube.com/watch?v=tlI022aUWQQ">What is reddit?</a></p>
+
+<p><a href="https://www.youtube.com/user/destinws2">Destin of Smarter Every Day</a></p>
+
+<p><a href="http://www.youtube.com/watch?v=OmHuae0SlXA&amp;feature=youtu.be">Evan's Birthday Yahtzee</a></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Anchoring">Anchoring</a></p>
+
+<p><a href="http://www.youtube.com/user/AlanKey86">Alan Stewart</a></p>
+
+<p><a href="http://www.cgpgrey.com/recommended-listening">Grey's recommended podcasts</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=YBbBbY4qvv4">Numbers Confuse Americans</a></p>
+
+<p><a href="http://www.muleradio.net/thetalkshow/">The Talk Show</a></p>
+
+<p><a href="http://atp.fm/">Accidental Tech Podcast</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:34:21</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5356827fe4b078fcf096a0b5/1462385218512/1500w/Hello+Internet.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/1020Two20Dudes20Talking.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/1020Two20Dudes20Talking.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #9: Kids in a Box</title>
 			<dc:creator>Hello Internet</dc:creator>
