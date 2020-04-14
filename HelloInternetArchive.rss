@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Tue, 13 May 2014 15:19:20 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Wed, 28 May 2014 14:12:46 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,59 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #13: Nobody Owns the Facts</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Wed, 28 May 2014 14:12:46 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/13</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5385e123e4b0d7fa576fbf78</guid>
+			<description><![CDATA[<p>Grey &amp; Brady discuss when owls attack, what happened with net neutrality and the FCC, and originality.  Also Grey talks for far, far too long about the Hobbit movies.  Seriously, you're lucky Brady stopped him otherwise it would have been seven hours of the longest, boringest podcast you've ever heard.  </p>
+
+<h2 id="sponsor">Sponsor</h2>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace makes it fast and easy to create your website.  Use code HELLOINTERNET for 10% off.</a></p>
+
+<h2 id="subscribe">Subscribe:</h2>
+
+<p><a href="http://www.hellointernet.fm/itunes">via iTunes</a>, <a href="http://feeds.podtrac.com/rZy85ymZYZc$">via RSS</a>, <a href="http://static.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/5385eecee4b040539be7c0bb/1401286350690/13.mp3/original/13.mp3">Download mp3</a></p>
+<p><strong><a href="http://www.reddit.com/r/CGPGrey/comments/26p3e1/hi_13_nobody_owns_the_facts/">Discuss this episode on the reddit</a></strong></p>
+
+<p><a href="http://goo.gl/eopqQx">Barn owl</a></p>
+
+<p><a href="https://www.youtube.com/user/destinws2">Destin: Smarter Every Day</a></p>
+
+<p><a href="https://www.youtube.com/channel/UCwez9XDNV_wS0WNDZteXjgw">Hello Internet Podcast on YouTube</a></p>
+
+<p><a href="https://itunes.apple.com/us/app/pocket-casts/id414834813?mt=8&amp;uo=4&amp;at=11l5Fy">Pocket Casts</a></p>
+
+<p><a href="http://digg.com/2014/what-we-heard-this-week-7">Digg: What We Heard This Week</a></p>
+
+<p><a href="http://kittyninjafish.deviantart.com/art/Fanart-Hello-Internet-453621937">Hello Internet Fan Art</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B00BWJ6JO4/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00BWJ6JO4&amp;linkCode=as2&amp;tag=hiintfm-20&amp;linkId=5TBRTCAPANW63RIY">The Hobbit: There and Back Again</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B00JJHDX9A/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00JJHDX9A&amp;linkCode=as2&amp;tag=hiintfm-20&amp;linkId=OM6QJ6VX57VYCH3M">The Hobbit: The Desolation of Smaug</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B005NFJAWG/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005NFJAWG&amp;linkCode=as2&amp;tag=hiintfm-20&amp;linkId=AACO4YSVOH64M63E">The Wire</a></p>
+
+<p><a href="http://www.escapistmagazine.com/videos/view/zero-punctuation">Zero Punctuation</a></p>
+
+<p><a href="https://www.youtube.com/user/minutephysics">MinutePhysics</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=B3u4EFTwprM&amp;feature=kp">Capitalism and Socialism: Crash Course World History #33</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=vo4pMVb0R6M&amp;index=2&amp;list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6">Hank Green Crash Course Psychology</a></p>
+
+<p><a href="https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q">Kurzgesagt</a></p>
+
+<p><a href="http://www.earwolf.com/show/the-cracked-podcast/">Cracked.com Podcast</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:39:02</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/5385e123e4b0d7fa576fbf78/1462385163241/1500w/Hello+Internet.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/13.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/13.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #12: Hamburgers in the Pipes</title>
 			<dc:creator>Hello Internet</dc:creator>
