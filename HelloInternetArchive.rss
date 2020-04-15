@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Wed, 28 May 2014 14:12:46 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Tue, 10 Jun 2014 19:06:43 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,61 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #14: How Humans Work</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Tue, 10 Jun 2014 19:06:43 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/14</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:53974e3ce4b04c5c0976ffa9</guid>
+			<description><![CDATA[<p>Grey &amp; Brady talking about Comic Sans, Shredders, Families, and a whole big mess of whatever.  This episode also has a bit that was cut <a href="https://www.youtube.com/watch?v=yq-HVi97NiQ">that you can watch on YouTube</a>  </p>
+
+<h2 id="sponsors">Sponsors</h2>
+
+<p><a href="http://www.audible.com/hellointernet">Audible.com: Get a FREE audiobook and 30-day trial today by signing up at www.audible.com/hellointernet</a></p>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace makes it fast and easy to create your website.  Use code HELLOINTERNET for 10% off.</a></p>
+
+<h2 id="subscribe">Subscribe:</h2>
+
+<p><a href="http://www.hellointernet.fm/itunes">via iTunes</a>, <a href="http://feeds.podtrac.com/rZy85ymZYZc$">via RSS</a></p>
+<p><strong><a href="http://www.reddit.com/r/CGPGrey/comments/27t6sj/hi_14_how_humans_work/">Discuss this episode</a></strong></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Comic_Sans">Comic Sans</a></p>
+
+<p><a href="http://comicneue.com/">Comic Neue</a></p>
+
+<p><a href="http://www.comicbookfonts.com/">Comic Book Fonts</a></p>
+
+<p><a href="https://twitter.com/smartereveryday/status/472378594870972416">Quadclops! Har! Har!</a></p>
+
+<p><a href="http://www.comingsoon.net/news/movienews.php?id=73862">Hobbit two-movie announcement</a></p>
+
+<p><a href="https://www.facebook.com/notes/peter-jackson/an-unexpected-journey/10151114596546558">Hobbit three-movie announcement</a></p>
+
+<p><a href="http://www.youtube.com/watch?v=mEN7DTdHbAU">Every picture is made of waves</a></p>
+
+<p><a href="http://www.extremetech.com/extreme/183183-microsoft-shows-off-real-time-universal-speech-translator-for-skype">Skype live computer translations</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=fpbOEoRrHyU">John Oliver Net Neutrality</a></p>
+
+<p><a href="http://en.wiktionary.org/wiki/humble">Humble</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=erUZQ9GK0sE">Find out what these Amazon customers are talking about</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=PM79Epw_cp8&amp;list=PLqs5ohhass_QZtSkX06DmWOaEaadwmw_D">Your Family Tree Explained</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=7u6kFlWZOWg">Brady Explains the Monty Hall problem</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=xdiL-ADRTxQ">Friends and Strangers Theorem</a></p>
+
+<p><a href="http://www.reddit.com/r/CGPGrey/comments/27a9yn/your_family_tree_explained/chyuqw5">Discussion on the reddit about passing on your name</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:57:40</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/53974e3ce4b04c5c0976ffa9/1462385141935/1500w/Hello+Internet.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/14.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/14.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #13: Nobody Owns the Facts</title>
 			<dc:creator>Hello Internet</dc:creator>
