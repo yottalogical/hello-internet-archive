@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Tue, 10 Jun 2014 19:06:43 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Tue, 24 Jun 2014 17:53:57 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,66 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #15: Books Made of Paper</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Tue, 24 Jun 2014 17:53:57 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/15</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:53a9aedde4b001f73fe83bb1</guid>
+			<description><![CDATA[<p>Brady's birthday presents, great expectations, Amazon Kindle's terrible typography, libraries, humbling experiences, the world cup and the problems of viral videos. This, apparently, is the show.</p>
+
+<h2 id="sponsors">Sponsors</h2>
+
+<p><a href="http://www.audible.com/hellointernet">Audible.com: Get a FREE audiobook and 30-day trial today by signing up at www.audible.com/hellointernet</a></p>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace makes it fast and easy to create your website. Use code HELLOINTERNET for 10% off.</a></p>
+
+<h2 id="subscribe">Subscribe:</h2>
+
+<p><a href="http://www.hellointernet.fm/itunes">via iTunes</a>, <a href="http://feeds.podtrac.com/rZy85ymZYZc$">via RSS</a></p>
+
+<p><strong><a href="http://www.reddit.com/r/CGPGrey/comments/28zhut/hi_15_books_made_of_paper/">Discuss this episode</a></strong></p>
+
+<p><a href="http://www.shatters.net/celestia/">Celestia</a></p>
+
+<p><a href="http://www.space.com/26305-extremely-large-telescope-mountain-blast.html">Absolutely MASSIVE explosion for the construction of the ESO</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=450jt8LlcnY">Brady ESO video</a></p>
+
+<p><a href="http://www.amazon.com/Amazon-Fire-Phone-32GB-AT/dp/B00EOE0WKQ">The Amazon Fire Phone</a></p>
+
+<p><a href="https://www.desmos.com/calculator/yge6cyp8f8">Hello Internet Episode Length</a></p>
+
+<p><a href="http://www.cgpgrey.com/blog/kindle-paperwhite-review-brighter-better-fatter">Grey's Kindle Paperwhite review</a></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Typographic_alignment">Typographic alignment</a></p>
+
+<p><a href="http://en.wikipedia.org/wiki/LaTeX">LaTeX</a></p>
+
+<p><a href="http://upload.wikimedia.org/wikipedia/commons/2/2e/British_Museum_Dome.jpg">British Museum</a></p>
+
+<p><a href="http://upload.wikimedia.org/wikipedia/commons/d/d3/British_Museum_Reading_Room_Section_Feb_2006.jpg">British Museum Reading Room</a></p>
+
+<p><a href="http://upload.wikimedia.org/wikipedia/commons/b/ba/SLC_public_library_interior.JPG">Salt Lake City public library</a></p>
+
+<p><a href="http://www.urbandictionary.com/define.php?term=humblebrag">Humblebrag</a></p>
+
+<p><a href="http://callmeishmael.com/">Call Me Ishmael</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B00062IDDS/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00062IDDS&amp;linkCode=as2&amp;tag=hellinte-20&amp;linkId=A3MY62FJU6ZGPJTQ">Star Trek Voyager</a></p>
+
+<p><a href="https://www.youtube.com/user/HelloInternetPodcast">Hello Internet on YouTube</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=yq-HVi97NiQ&amp;list=PLe_b-HAZD1pWd4MBBaFP_6GJhVBn82dDQ">⌘X: WWDC</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=wBU9N35ZHIw&amp;list=UUoxcjq-8xIDTYp3uz647V5A">Brady's viral cake video</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:53:54</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/53a9aedde4b001f73fe83bb1/1462385122290/1500w/Hello+Internet.png" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/15.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/15.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #14: How Humans Work</title>
 			<dc:creator>Hello Internet</dc:creator>
