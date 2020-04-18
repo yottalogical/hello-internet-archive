@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Tue, 15 Jul 2014 11:11:50 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Tue, 22 Jul 2014 19:05:18 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,60 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #17: Mister Phoenix</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Tue, 22 Jul 2014 19:05:18 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/17</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:53ceb177e4b03e5918e59fcc</guid>
+			<description><![CDATA[<p>Grey &amp; Brady talk about Her.  And Pets.  Spoiler warnings for <em>Her</em>, <em>Raiders of the Lost Ark</em>, <em>Seven</em> and <em>The Happening</em>.</p>
+
+<h2 id="broughttoyouby">Brought to You By:</h2>
+
+<p><a href="http://www.audible.com/hellointernet">Audible.com: Get a free audiobook by signing up at www.audible.com/hellointernet</a></p>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLOINTERNET for 10% off your website.</a></p>
+
+<h2 id="shownotes">Show Notes:</h2>
+
+<p><strong><a href="http://www.reddit.com/r/CGPGrey/comments/2bf6y0/hi_17_mister_phoenix/">Discuss this episode on the reddit</a></strong></p>
+
+<p><a href="https://www.youtube.com/watch?v=GE_Ddfx2gSk&amp;feature=youtu.be">Lulu wins!</a></p>
+
+<p><a href="http://www.retiredgreyhounds.co.uk">Retired Greyhound Trust</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=wVXExp6c_OY">Lulu in slow motion</a></p>
+
+<p><a href="http://www.dogbreedinfo.com/poodlemix.htm">List of Poodle crossbreeds</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B00KATY250/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00KATY250&amp;linkCode=as2&amp;tag=hellinte-20&amp;linkId=E23HGYZG64NPLL7U">Her</a></p>
+
+<p><a href="http://redlettermedia.com/half-in-the-bag/">Half in the Bag</a></p>
+
+<p><a href="https://www.youtube.com/user/CinemaSins">CinemaSins</a></p>
+
+<p><a href="https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE">Honest Movie Trailers</a></p>
+
+<p><a href="https://itunes.apple.com/us/movie/indiana-jones-raiders-lost/id548593580?mt=8&amp;uo=4&amp;at=11l5Fy">Raiders of the Lost Ark</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B00464AVXW/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00464AVXW&amp;linkCode=as2&amp;tag=hellinte-20&amp;linkId=SBFKJZVZ6Z6Y46GE">Seven</a></p>
+
+<p><a href="http://i1.kym-cdn.com/photos/images/original/000/254/517/a70.gif">Thumbs down</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B001HOZWUG/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001HOZWUG&amp;linkCode=as2&amp;tag=hellinte-20&amp;linkId=CCN76X7EK62OTB5O">The Happening</a></p>
+
+<p><a href="https://itunes.apple.com/us/movie/short-circuit/id279012559?mt=8&amp;uo=4&amp;at=11l5Fy">Short Circuit</a></p>
+
+<h2 id="listen">Listen:</h2>
+
+<p><a href="http://www.hellointernet.fm/itunes">Subscribe via iTunes</a>, <a href="http://feeds.podtrac.com/rZy85ymZYZc$">Subscribe via RSS</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:35:37</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/53ceb177e4b03e5918e59fcc/1462385047343/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/17.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/17.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #16: The Worst Topic for a Podcast</title>
 			<dc:creator>Hello Internet</dc:creator>
