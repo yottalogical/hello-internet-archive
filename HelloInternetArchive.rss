@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Sun, 02 Nov 2014 20:31:45 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Mon, 24 Nov 2014 14:27:36 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,78 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #25: Fantasy Stage</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Mon, 24 Nov 2014 14:27:36 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/25</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:54733f52e4b0eb3c9939296a</guid>
+			<description><![CDATA[<p>Grey and Brady are jet lagged and exhausted from their week in Alabama.  Listen as they struggle through a conversation about: humblebrags and bragging humble (it will never end), the original iPhone keynote, their travel experiences, instructions in security, everybody loves Brady, US vs Irish passports, Indian bureaucracy, guns guns guns, Alabama food, Random Acts of Intelligence, The U.S. Space and Rocket Center, and a little bit on fame.  </p>
+
+<h2 id="broughttoyouby">Brought to You By:</h2>
+
+<p><a href="http://www.audible.com/hellointernet">Audible.com: Get a free audiobook by signing up at www.audible.com/hellointernet</a></p>
+
+<p><a href="https://www.harrys.com/?hellointernetpodcast">Harry's: Quality Men's Shaving Products. Promocode hiHoliday for $5 off for the Winter Winston -- even for returning customers</a></p>
+
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU</a></p>
+
+<h2 id="shownotes">Show Notes:</h2>
+
+<p><strong><a href="http://www.reddit.com/r/CGPGrey/comments/2n9jsi/hi_25_fantasy_stage/">Discuss this episode</a></strong></p>
+
+<p><a href="http://www.hellointernet.fm/how-to-humblebrag/">Humblebragging</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Donald_Knuth">Donald Knuth</a></p>
+
+<p><a href="http://www.cgpgrey.com/blog/the-professional-sharer">Email lists and the Professional Sharer</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=vN4U5FqrOdQ">Steve Jobs introduces the iPhone</a></p>
+
+<p><a href="http://www.theaustralian.com.au/news/world/thai-airways-tries-logo-cover-up-after-a330-300-skids-off-runway/story-e6frg6so-1226715235550">Redacted airline logo</a></p>
+
+<p><a href="https://www.youtube.com/user/destinws2">Destin from Smarter Every Day</a></p>
+
+<p><a href="https://www.youtube.com/user/minutephysics">Henry from MinutePhysics</a></p>
+
+<p><a href="https://www.youtube.com/veritasium">Derek from Veritasium</a></p>
+
+<p><a href="https://itunes.apple.com/us/album/read-my-mind/id193939132?i=193939166&amp;mt=8&amp;uo=4&amp;at=11l5Fy">Read My Mind</a></p>
+
+<p><a href="http://www.metwashairports.com/dulles/dulles.htm">Washington Dulles Airport</a></p>
+
+<p><a href="http://www.reddit.com/r/murica">'MURICA!</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/File:Blank_uspassprebio.jpg">Old US passport</a></p>
+
+<p><a href="http://www.gpo.gov/images/customers/e-passport/passport6.gif">New US passport</a></p>
+
+<p><a href="http://imgur.com/a/geihQ">Old Irish passport</a></p>
+
+<p><a href="http://imgur.com/a/m59uj">New Irish passport</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Walther_P22">Walther P22</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Ruger_SP-101">Ruger SP-101</a></p>
+
+<p><a href="http://www.food.com/recipe/strawberry-pretzel-salad-29400">Strawberry Pretzel Salad</a></p>
+
+<p><a href="http://www.actsofintelligence.com">Random Acts of Intelligence</a></p>
+
+<p><a href="http://rocketcenter.com">U.S. Space and Rocket Center</a></p>
+
+<p><a href="https://pbs.twimg.com/media/B2fYytbIQAASV7P.jpg">Signed iPhone</a></p>
+
+<p><a href="http://www.cgpgrey.com/blog/faceless-voices">Faceless Voices</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=0r3cEKZiLmg">Mile of Pi</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:31:19</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/54733f52e4b0eb3c9939296a/1462384694491/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/25.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/25.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #24: Mr Complainy Pants</title>
 			<dc:creator>Hello Internet</dc:creator>
