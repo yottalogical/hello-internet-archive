@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Thu, 25 Dec 2014 08:01:00 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Mon, 05 Jan 2015 16:25:42 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,42 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #28: Randomness in a Box</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Mon, 05 Jan 2015 16:25:42 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/28</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:54aab99ae4b0ab38feed02a1</guid>
+			<description><![CDATA[<p>Grey and Brady discuss ringing in the new year, location tracking, food that is very London, reviewing your life, Sir Martyn, honors, plane crash corner, isolation from the news (yet again), <a href="https://www.youtube.com/c/objectivityvideos">Brady's new channel</a>, and text message protocols.  </p>
+
+<h2 id="broughttoyouby">Brought to You By:</h2>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLO for 10% off your website.</a>.</p>
+
+<p><a href="http://www.lootcrate.com/hello">LootCrate.com: A monthly box of geek &amp; gamer gear.  Use code HELLO for 10% off your subscription</a></p>
+
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+
+<h2 id="shownotes">Show Notes:</h2>
+
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/">Discuss this episode</a></strong></p>
+
+<p><a href="http://www.bradyharanblog.com/blog/2014/12/30/sir-martyn-poliakoff">Sir Martyn Poliakoff</a></p>
+
+<p><a href="http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-speech.html">Richard Feynman Nobel Prize acceptance speech</a></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Indonesia_AirAsia_Flight_8501">Indonesia AirAsia Flight 8501</a></p>
+
+<p><a href="http://www.cgpgrey.com/blog/hello-internet-editing-time-lapse">How Hello Internet is Edited</a></p>
+
+<p><a href="https://www.youtube.com/c/objectivityvideos">Objectivity</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:28:39</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/54aab99ae4b0ab38feed02a1/1462384593719/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/28.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/28.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #27 Bumper Christmas Special</title>
 			<dc:creator>Hello Internet</dc:creator>
