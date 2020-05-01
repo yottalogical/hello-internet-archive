@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Mon, 05 Jan 2015 16:25:42 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Mon, 19 Jan 2015 14:19:04 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,60 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #29: Courses for Horses</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Mon, 19 Jan 2015 14:19:04 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/29</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:54bd109ae4b05e8a3646ca6e</guid>
+			<description><![CDATA[<p>Grey and Brady discuss feedback on text messages, do not disturb, kiss inflation, Grey's new keyboard, Brady's defense of following the news, Grey abolishes all of human history followed by a discussion on the podcast phenomenon: Serial.  </p>
+
+<h2 id="broughttoyouby">Brought to You By:</h2>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLO for 10% off your website.</a>.</p>
+
+<p><a href="https://www.harrys.com/?hellointernetpodcast">Harry's: Quality Men's Shaving Products. Promocode HI for $5 off your first purchase</a></p>
+
+<p><a href="http://audible.com/hellointernet">Audible.com: Get a free audiobook by signing up at www.audible.com/hellointernet</a></p>
+
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+
+<h2 id="shownotes">Show Notes:</h2>
+
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/comments/2sxqdw/hi_29_courses_for_horses/">Discuss this episode</a></strong></p>
+
+<p><a href="https://twitter.com/walkerhjames/status/555403063335587841">Text message at any time tally</a></p>
+
+<p><a href="https://www.youtube.com/user/1veritasium">Derek of Veritasium</a></p>
+
+<p><a href="http://en.wiktionary.org/wiki/horses_for_courses">Horses for Courses</a></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Martyn_Poliakoff">Martyn Poliakoff</a></p>
+
+<p><a href="https://www.youtube.com/user/destinws2">Destin of Smarter Every Day</a></p>
+
+<p><a href="https://www.reddit.com/r/CGPGrey/comments/2rev6q/hi_28_randomness_in_a_box/">Discussion on when to text people</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=lwznMXefjnc">Mitchell and Webb: Text Kisses</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=qjOZtWZ56lc">Mitchell and Webb: Numberwang</a></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Typewriter">Typewriters</a></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Keyboard_technology">Keyboard Technology</a></p>
+
+<p><a href="https://twitter.com/cgpgrey/status/553156046026731520">Grey's Keyboard</a></p>
+
+<p><a href="http://www.wasdkeyboards.com/">WASD Keyboards</a></p>
+
+<p><a href="http://serialpodcast.org">Serial Podcast</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>02:15:28</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/54bd109ae4b05e8a3646ca6e/1462384560522/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/29.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/29.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #28: Randomness in a Box</title>
 			<dc:creator>Hello Internet</dc:creator>
