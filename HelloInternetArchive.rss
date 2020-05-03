@@ -3,7 +3,7 @@
 	<channel>
 		<title>Hello Internet Archive</title>
 		<link>http://www.hellointernet.fm/</link>
-		<lastBuildDate>Mon, 02 Feb 2015 07:04:28 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
+		<lastBuildDate>Mon, 16 Feb 2015 10:13:00 +0000</lastBuildDate> <!-- lastBuildDate corresponds to the last episode's pubDate -->
 		<language>en-US</language>
 		<generator>Site-Server v6.0.0-18626-18626 (http://www.squarespace.com)</generator>
 		<itunes:author>CGP Grey &amp; Brady Haran</itunes:author>
@@ -18,6 +18,68 @@
 		<itunes:category text="Education" />
 		<itunes:type>episodic</itunes:type>
 		<itunes:image href="https://images.squarespace-cdn.com/content/52d66949e4b0a8cec3bcdd46/1391195775824-JVU9K0BX50LWOKG99BL5/Hello+Internet.003.png?content-type=image%2Fpng" />
+		<item>
+			<title>H.I. #31: An Enigma Wrapped in an Egg McMuffin</title>
+			<dc:creator>Hello Internet</dc:creator>
+			<pubDate>Mon, 16 Feb 2015 10:13:00 +0000</pubDate>
+			<link>http://www.hellointernet.fm/podcast/31</link>
+			<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:54e13002e4b0bfaec1e576da</guid>
+			<description><![CDATA[<p>Grey &amp; Brady talk more about working at the white house, the continued first-world horror of using a magic space phone that's slightly bigger than we want it to be, Canadian passports, <a href="http://www.bradyharanblog.com/blog/2015/2/11/star-wars-with-darth-vader-tickets">Star Wars with David Prowse update</a>, a NSFP (Not safe for planes) edition of plane crash corner, distracted driving, a tale of the importance of routines, before derailing into nonsense. </p>
+
+<h2 id="broughttoyouby">Brought to You By:</h2>
+
+<p><a href="https://www.harrys.com/?hellointernetpodcast">Harry's: Quality Men's Shaving Products. Promocode HI for $5 off your first purchase</a></p>
+
+<p><a href="http://audible.com/hellointernet">Audible.com: Get a free audiobook by signing up at www.audible.com/hellointernet</a></p>
+
+<p><a href="http://www.squarespace.com/hellointernet">Squarespace: Use code HELLO for 10% off your website.</a></p>
+
+<p><a href="http://www.patreon.com/hellointernet">Listeners like YOU on Patreon</a></p>
+
+<h2 id="shownotes">Show Notes:</h2>
+
+<p><strong><a href="https://www.reddit.com/r/CGPGrey/comments/2w2bn8/hi_31_an_enigma_wrapped_in_an_egg_mcmuffin/">Discuss this episode</a></strong></p>
+
+<p><a href="http://hankgreen.com">Hank Green</a></p>
+
+<p><a href="http://www.whitehousemuseum.org/west-wing/presidents-study.htm">President's Study</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B000KZPG04/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000KZPG04&amp;linkCode=as2&amp;tag=hellinte-20&amp;linkId=2IHA7VKI3FMAYZLF">The West Wing</a></p>
+
+<p><a href="http://www.whitehousemuseum.org/special/renovation-1948.htm">Truman Whitehouse reconstruction</a></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Resolute_desk">The Resolute Desk</a></p>
+
+<p><a href="https://www.youtube.com/user/marquesbrownlee">MKBHD</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=Wwp9eaVVW_8">MKBHD iPhone 6+ review</a></p>
+
+<p><a href="https://dbrand.com/iphone-skins">Dbrand iPhone skins</a></p>
+
+<p><a href="http://www.buzzfeed.com/tanyachen/canadian-passport-black-light-party#.hk3KlLA4y4">Canadian passport under the blacklight</a></p>
+
+<p><a href="http://www.bradyharanblog.com/blog/2015/2/11/star-wars-with-darth-vader-tickets">How to watch Star Wars with Darth Vader and Hello Internet and penguins</a></p>
+
+<p><a href="http://edition.cnn.com/videos/world/2015/02/04/vo-taiwan-transasia-crash-dash-cam-video.tvbs-taiwan">Taiwan dash cam crash</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=_VyHa05LyIA">Cargo plane crash</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=_nhxm5QEbYI">Denzel Washington saves the day</a></p>
+
+<p><a href="http://www.latimes.com/nation/la-na-selfie-plane-crash-colorado-20150203-story.html">Selfie plane crash</a></p>
+
+<p><a href="http://i2.cdn.turner.com/cnn/2015/images/02/03/ntsb.report.pdf">Baby's first NTSB</a></p>
+
+<p><a href="https://www.aaafoundation.org/sites/default/files/MeasuringCognitiveDistractions.pdf">Distracted driving</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=_BqFkRwdFZ0">"From One Second To The Next" A Film By Werner Herzog - It Can Wait</a></p>]]></description>
+			<itunes:author>Hello Internet</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:38:09</itunes:duration>
+			<itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/54e13002e4b0bfaec1e576da/1462384439100/1500w/" />
+			<enclosure url="http://traffic.libsyn.com/hellointernet/31.mp3" type="audio/mpeg" />
+			<media:content url="http://traffic.libsyn.com/hellointernet/31.mp3" type="audio/mpeg" isDefault="true" medium="audio" />
+		</item>
 		<item>
 			<title>H.I. #30: Fibonacci Dog Years</title>
 			<dc:creator>Hello Internet</dc:creator>
